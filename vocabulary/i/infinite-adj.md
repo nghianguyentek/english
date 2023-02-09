@@ -1,3 +1,5 @@
 # infinite (adj)
 
-## boundless
+/ˈɪnfɪnət/
+
+## 1. boundless

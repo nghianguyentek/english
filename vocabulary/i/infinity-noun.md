@@ -1,3 +1,5 @@
 # infinity (noun)
 
-## a very large and uncountable amount
+/ɪnˈfɪnəti/
+
+## 1. a very large and uncountable amount

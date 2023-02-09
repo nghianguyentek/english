@@ -1,3 +1,5 @@
 # consent (noun)
 
-## agreement
+/kənˈsent/
+
+## 1. agreement

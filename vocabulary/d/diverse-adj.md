@@ -1,3 +1,5 @@
 # diverse (adj)
 
-## [various](../v/various-adj.md)
+/daɪˈvɜːs/
+
+## 1. [various](../v/various-adj.md)

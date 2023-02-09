@@ -1,3 +1,3 @@
 # asymptotic (adj)
 
-## (Maths) come closer and closer (tiệm cận)
+## 1. (Maths) come closer and closer (tiệm cận)

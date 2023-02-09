@@ -1,5 +1,7 @@
 # vertex (noun)
 
-*(plural) vertices*
+/ˈvɜːteks/
 
-## (Geometry) top
+*(plural) vertices /ˈvɜːtɪsiːz/*
+
+## 1. (Geometry) top

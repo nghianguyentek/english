@@ -1,3 +1,5 @@
 # recurrence (noun)
 
-## repeat
+/rɪˈkʌrəns/
+
+## 1. repeat

@@ -1,3 +1,5 @@
 # summation (noun)
 
-## (formal) summary of done things
+/sʌˈmeɪʃn/
+
+## 1. (formal) summary of done things

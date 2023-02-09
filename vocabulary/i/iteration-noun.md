@@ -1,3 +1,5 @@
 # iteration (noun)
 
-## (Maths & Computers) loop
+/ˌɪtəˈreɪʃn/
+
+## 1. (Maths & Computers) loop

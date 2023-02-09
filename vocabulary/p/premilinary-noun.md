@@ -1,3 +1,0 @@
-# preliminary (noun)
-
-## initialization

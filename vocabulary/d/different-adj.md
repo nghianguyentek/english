@@ -1,3 +1,5 @@
 # different (adj)
 
-## not the same
+/ˈdɪfrənt/
+
+## 1. not the same

@@ -1,3 +1,5 @@
 # various (adj)
 
-## [different](../d/different-adj.md)
+/ˈveəriəs/
+
+## 1. [different](../d/different-adj.md)
