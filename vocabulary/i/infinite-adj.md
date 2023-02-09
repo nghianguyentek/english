@@ -1,0 +1,3 @@
+# infinite (adj)
+
+## boundless
