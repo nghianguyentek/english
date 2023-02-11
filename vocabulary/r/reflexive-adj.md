@@ -1,0 +1,5 @@
+# reflexive (adj)
+
+/rɪˈfleksɪv/
+
+## 
