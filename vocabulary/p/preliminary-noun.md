@@ -2,4 +2,4 @@
 
 /prɪˈlɪmɪnəri/
 
-## 1. initialization
+## 1. [initialization](../i/initialization-noun.md)
