@@ -2,4 +2,4 @@
 
 /daɪˈvɜːs/
 
-## 1. [various](../v/various-adj.md)
+## &bull; [various](../v/various-adj.md)

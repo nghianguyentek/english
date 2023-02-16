@@ -2,4 +2,4 @@
 
 /ˈveəriəs/
 
-## 1. [different](../d/different-adj.md)
+## &bull; [different](../d/different-adj.md)
