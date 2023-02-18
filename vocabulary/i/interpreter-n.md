@@ -1,0 +1,5 @@
+# interpreter (n)
+
+/ɪnˈtɜːprətə(r)/
+
+## &bull; (computing) a [computer](../c/computer-n.md#•-an-electronic-machine-that-can-store-organize-and-find-information-do-processes-with-numbers-and-other-data-and-control-other-machines) [program](../p/program-n.md#•-a-set-of-instructions-in-code-that-control-the-operations-or-functions-of-a-computer) that changes the [instructions](../i/instruction-n.md#•-a-piece-of-information-that-tells-a-computer-to-perform-a-particular-operation) of another [program](../p/program-n.md#•-a-set-of-instructions-in-code-that-control-the-operations-or-functions-of-a-computer) into a form that the [computer](../c/computer-n.md#•-an-electronic-machine-that-can-store-organize-and-find-information-do-processes-with-numbers-and-other-data-and-control-other-machines) can understand and execute

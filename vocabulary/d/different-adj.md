@@ -2,4 +2,4 @@
 
 /ˈdɪfrənt/
 
-## 1. not the same
+## &bull; not the same
