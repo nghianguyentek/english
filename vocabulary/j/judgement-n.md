@@ -1,0 +1,7 @@
+# judgement (n)
+
+/ˈdʒʌdʒmənt/
+
+## &bull; the [ability](../a/ability-n.md#•-ability-to-do-something-the-fact-that-somebody-or-something-is-able-to-do-something) to make sensible [decisions](../d/decision-n.md#•-a-choice-or-judgement-that-you-make-after-thinking-and-talking-about-what-is-the-best-thing-to-do) after carefully [considering](../c/consider-v.md#•-to-think-about-something-carefully-especially-in-order-to-make-a-decision) the best [thing](../t/thing-n.md#•-an-object-that-is-not-alive) to do
+
+## &bull; an [opinion](../o/opinion-n.md#•-your-feeling-or-thoughts-about-somebody-or-something-rather-than-a-fact) that you form [about](../a/about-pr.md#•-on-the-subject-of-somebody-or-something-in-connection-with-somebody-or-something) [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name) after [thinking](../t/think-v.md#•-to-use-your-mind-to-consider-something-to-form-connected-ideas-to-try-to-solve-problems-etc) [about](../a/about-pr.md#•-on-the-subject-of-somebody-or-something-in-connection-with-somebody-or-something) it carefully; the act of making this [opinion](../o/opinion-n.md#•-your-feeling-or-thoughts-about-somebody-or-something-rather-than-a-fact) [known](../k/know-v.md#•-to-have-information-in-your-mind-as-a-result-of-experience-or-because-you-have-learned-or-been-told-it) to others

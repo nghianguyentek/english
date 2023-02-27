@@ -1,0 +1,5 @@
+# factor into (pv)
+
+/ˈfæktə(r) /
+
+## &bull; to [include](../i/include-v.md#•-if-one-thing-includes-another-it-has-the-second-thing-as-one-of-its-parts) a [particular](../p/particular-adj.md#•-used-to-emphasize-that-you-are-referring-to-one-individual-person-thing-or-type-of-thing-and-not-others) [fact](../f/fact-n.md#•-a-thing-that-is-known-to-be-true-especially-when-it-can-be-proved) or [situation](../s/situation-n.md#•-all-the-circumstances-and-things-that-are-happening-at-a-particular-time-and-in-a-particular-place) when you are [thinking](../t/think-v.md#•-to-use-your-mind-to-consider-something-to-form-connected-ideas-to-try-to-solve-problems-etc) [about](../a/about-pr.md#•-used-to-describe-the-purpose-or-an-aspect-of-something) or planning [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name)

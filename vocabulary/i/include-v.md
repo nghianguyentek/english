@@ -2,8 +2,16 @@
 
 /ɪnˈkluːd/
 
-## if one thing includes another, it has the second thing as one of its parts
+## &bull; if one thing includes another, it has the second thing as one of its parts
 
-## included - pp
+## &bull; includes
+
+/ɪnˈkluːdz/
+
+## &bull; included
 
 /ɪnˈkluːdɪd/
+
+## &bull; including
+
+/ɪnˈkluːdɪŋ/
