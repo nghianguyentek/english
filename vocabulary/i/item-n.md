@@ -2,4 +2,4 @@
 
 /ˈaɪtəm/
 
-## one thing on a list of things to buy, do, talk about, etc.
+## &bull; one [thing](../t/thing-n.md#•-an-object-that-is-not-alive) on a list of [things](../t/thing-n.md#•-an-object-that-is-not-alive) to buy, do, talk about, etc.

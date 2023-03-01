@@ -1,6 +1,6 @@
 # data (n)
 
-/ˈdeɪtə/
+/ˈdeɪtə/ or /ˈdɑːtə/
 
 *plural form of datum*
 
