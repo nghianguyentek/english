@@ -1,0 +1,5 @@
+﻿# transformer (n)
+
+/trænsˈfɔːmə(r)/
+
+## &bull; a [device](../d/device-n.md#•-an-object-or-a-piece-of-equipment-that-has-been-designed-to-do-a-particular-job) for [reducing](../r/reduce-v.md#•-to-make-something-less-or-smaller-in-size-quantity-price-etc-to-become-less-or-smaller-in-size-quantity-etc) or [increasing](../i/increase-v.md#•-to-become-greater-in-amount-number-value-etc-to-make-something-greater-in-amount-number-value-etc) the voltage of an [electric](../e/electric-adj.md#•-connected-with-electricity-using-produced-by-or-producing-electricity) power [supply](../s/supply-n.md#•-the-act-of-supplying-something-the-fact-of-receiving-something-that-is-being-supplied), usually to allow a [particular](../p/particular-adj.md#•-used-to-emphasize-that-you-are-referring-to-one-individual-person-thing-or-type-of-thing-and-not-others) piece of [electrical](../e/electrical-adj.md#•-connected-with-electricity-using-or-producing-electricity) [equipment](../e/equipment-n.md#•-the-things-that-are-needed-for-a-particular-purpose-or-activity) to be used

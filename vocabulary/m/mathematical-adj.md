@@ -2,4 +2,4 @@
 
 /ˌmæθəˈmætɪkl/
 
-## 1. connected with or involving [mathematics](mathematics-noun.md)
+## &bull; [connected](../c/connected-adj.md#•-of-two-or-more-things-or-people-having-a-link-between-them) with or involving [mathematics](mathematics-n.md#•-maths)

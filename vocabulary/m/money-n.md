@@ -6,4 +6,4 @@
 
 ## &bull; coins or paper notes
 
-## &bull; a person's wealth [including](../i/include-v.md#•-if-one-thing-includes-another-it-has-the-second-thing-as-one-of-its-parts) their property
+## &bull; a person's wealth [including](../i/include-v.md#•-if-one-thing-includes-another-it-has-the-second-thing-as-one-of-its-parts) their [property](../p/property-n.md#•-land-and-buildings)

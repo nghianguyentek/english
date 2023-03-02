@@ -2,7 +2,7 @@
 
 /ɪnˈherɪt/
 
-## &bull; to receive money, property, etc. from [somebody](../s/somebody-p.md#•-a-person-who-is-not-known-or-mentioned-by-name) when they die
+## &bull; to receive money, [property](../p/property-n.md#•-a-thing-or-things-that-are-owned-by-somebody-a-possession-or-posessions), etc. from [somebody](../s/somebody-p.md#•-a-person-who-is-not-known-or-mentioned-by-name) when they die
 
 ## &bull; to have qualities, physical features, etc. that are similar to those of your parents, grandparents, etc.
 
