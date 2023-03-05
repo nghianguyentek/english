@@ -1,0 +1,3 @@
+﻿# base on (pv)
+
+## &bull; (base on something or base upon something) to use an [idea](../i/idea-n.md#•-a-plan-thought-or-suggestion-especially-about-what-to-do-in-a-particular-situation), a [fact](../f/fact-n.md#•-a-thing-that-is-known-to-be-true-especially-when-it-can-be-proved), a [situation](../s/situation-n.md#•-all-the-circumstances-and-things-that-are-happening-at-a-particular-time-and-in-a-particular-place), etc. as the point from which [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name) can be [developed](../d/develop-v.md#•-to-think-of-or-produce-a-new-idea-product-etc-and-make-it-successful)

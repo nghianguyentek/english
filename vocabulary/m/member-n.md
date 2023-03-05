@@ -1,4 +1,4 @@
-# member (noun)
+# member (n)
 
 /ˈmembə(r)/
 
