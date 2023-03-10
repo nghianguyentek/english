@@ -1,0 +1,9 @@
+﻿# interface (n)
+
+/ˈɪntəfeɪs/
+
+## &bull; (computing) the way a [computer](../c/computer-n.md#•-an-electronic-machine-that-can-store-organize-and-find-information-do-processes-with-numbers-and-other-data-and-control-other-machines) [program](../p/program-n.md#•-a-set-of-instructions-in-code-that-control-the-operations-or-functions-of-a-computer) presents [information](../i/information-n.md#•-facts-or-details-about-somebody-or-something) to a [user](../u/user-n.md#•-a-person-or-thing-that-uses-something) or receives [information](../i/information-n.md#•-facts-or-details-about-somebody-or-something) from a [user](../u/user-n.md#•-a-person-or-thing-that-uses-something), in [particular](../p/particular-adj.md#•-used-to-emphasize-that-you-are-referring-to-one-individual-person-thing-or-type-of-thing-and-not-others) the layout of the screen and the menus
+
+## &bull; (computing) an [electrical](../e/electrical-adj.md#•-connected-with-electricity-using-or-producing-electricity) circuit, [connection](../c/connection-n.md#•-something-that-connects-two-facts-ideas-etc) or [program](../p/program-n.md#•-a-set-of-instructions-in-code-that-control-the-operations-or-functions-of-a-computer) that [joins](../j/join-v.md#•-if-two-things-or-groups-join-or-if-one-thing-or-group-joins-another-they-come-together-to-form-one-thing-or-group) one [device](../d/device-n.md#•-an-object-or-a-piece-of-equipment-that-has-been-designed-to-do-a-particular-job) or [system](../s/system-n.md#•-a-group-of-things-pieces-of-equipment-etc-that-are-connected-or-work-together) to [another](../a/another-pr.md#•-a-different-person-or-thing)
+
+## &bull; the point where two subjects, [systems](../s/system-n.md#•-a-group-of-things-pieces-of-equipment-etc-that-are-connected-or-work-together), etc. meet and affect each other

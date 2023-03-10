@@ -1,0 +1,3 @@
+﻿# MV-RS (n)
+
+## &bull; a P/C-based [handheld](../h/handheld-n.md#•-a-device-especially-a-computer-that-is-small-enough-to-be-held-in-the-hand-while-being-used) [meter](../m/meter-n.md#•-a-device-that-measures-and-records-the-amount-of-electricity-gas-water-etc-that-you-have-used-or-the-time-and-distance-you-have-travelled-etc) [reading](../r/reading-n.md#•-the-amount-or-number-shown-on-an-instrument-used-for-measuring-something) software
