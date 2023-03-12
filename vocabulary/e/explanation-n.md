@@ -1,0 +1,7 @@
+﻿# explanation (n)
+
+/ˌekspləˈneɪʃn/
+
+## &bull; a [statement](../s/statement-n.md#•-something-that-you-say-or-write-that-gives-information-or-an-opinion), [fact](../f/fact-n.md#•-a-thing-that-is-known-to-be-true-especially-when-it-can-be-proved), or [situation](../s/situation-n.md#•-all-the-circumstances-and-things-that-are-happening-at-a-particular-time-and-in-a-particular-place) that tells you why [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name) [happened](../h/happen-v.md#•-to-take-place-especially-without-being-planned); a reason given for [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name)
+
+## &bull; a [statement](../s/statement-n.md#•-something-that-you-say-or-write-that-gives-information-or-an-opinion) or piece of writing that tells you how [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name) [works](../w/work-v.md#•-to-function-to-operate) or [makes](../m/make-v.md#•-to-cause-somebody-or-something-to-be-or-become-a-particular-kind-of-thing-or-person) [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name) easier to [understand](../u/understand-v.md#•-to-know-or-realize-how-or-why-something-happens-how-it-works-or-why-it-is-important)

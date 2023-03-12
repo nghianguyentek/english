@@ -1,0 +1,5 @@
+﻿# account (n)
+
+## &bull; (account of something) a written or spoken [description](../d/description-n.md#•-a-piece-of-writing-or-speech-that-says-what-somebody-or-something-is-like-the-act-of-writing-or-saying-in-words-what-somebody-or-something-is-like) of [something](../s/something-p.md#•-a-thing-that-is-not-known-or-mentioned-by-name) that has [happened](../h/happen-v.md#•-to-take-place-especially-without-being-planned)
+
+## &bull; (account of something) an [explanation](../e/explanation-n.md#•-a-statement-or-piece-of-writing-that-tells-you-how-something-works-or-makes-something-easier-to-understand) or a [description](../d/description-n.md#•-a-piece-of-writing-or-speech-that-says-what-somebody-or-something-is-like-the-act-of-writing-or-saying-in-words-what-somebody-or-something-is-like) of an [idea](../i/idea-n.md#•-an-opinion-or-a-belief-about-something), a [theory](../t/theory-n.md#•-the-principles-on-which-a-particular-subject-is-based-on-lý-thuyết), or a [process](../p/process-n.md#•-a-series-of-things-that-are-done-in-order-to-achieve-a-particular-result)
