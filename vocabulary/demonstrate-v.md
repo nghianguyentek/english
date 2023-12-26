@@ -1,0 +1,4 @@
+# demonstrate (v)
+
+/ˈdemənstreɪt/
+
