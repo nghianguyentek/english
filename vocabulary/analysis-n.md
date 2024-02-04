@@ -2,4 +2,4 @@
 
 /əˈnæləsɪs/
 
-## the detailed study or examination of something in order to understand more about it; the result of the study
+## the detailed study or examination of something in order to understand more about it; the result of the study (sự phân tích)
