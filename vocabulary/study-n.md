@@ -1,0 +1,3 @@
+# study (n)
+
+## a piece of [research](research-n.md#a-careful-study-of-a-subject-especially-in-order-to-discover-new-facts-or-information-about-it) that examines a [subject](subject-n.md#an-area-of-knowledge-studied-in-a-school-college-etc) or [question](question-n.md#a-matter-or-topic-that-needs-to-be-discussed-or-dealt-with) in [detail](detail-n.md#the-small-facts-or-features-of-something-when-you-consider-them-all-together)
