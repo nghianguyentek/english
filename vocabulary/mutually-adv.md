@@ -1,0 +1,5 @@
+# mutually (adv)
+
+/ˈmjuːtʃuəli/
+
+## 
