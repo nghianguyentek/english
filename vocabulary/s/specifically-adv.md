@@ -1,6 +1,6 @@
 # specifically (adv)
 
-/spəˈsɪfɪkli/
+/spəˈsɪfɪkli/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/spe/speci/specifically__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spe/speci/specifically__us_1.mp3)
 
 ## in a detailed and exact way (cụ thể)
 
