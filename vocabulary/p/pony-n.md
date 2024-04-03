@@ -4,4 +4,8 @@
 
 ## (Animals) a type of small horse (ngựa nhỏ; giống ngựa Pony)
 
+![pony-1](pony-1.png)
+
+![pony-2](pony-2.png)
+
 - How do we count the ponies
