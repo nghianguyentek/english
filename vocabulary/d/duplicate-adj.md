@@ -1,6 +1,7 @@
 # duplicate (adj)
 
-/ˈdjuːplɪkət/
+- /ˈdjuːplɪkət/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dup/dupli/duplicate__gb_2.mp3)
+- /ˈduːplɪkət/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dup/dupli/duplicate__us_2.mp3)
 
 ## exactly like something else; made as a copy of something else (trùng)
 
