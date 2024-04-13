@@ -4,6 +4,6 @@
 
 (uncountable)
 
-## a situation in which you expect somebody to keep information secret (bí/bảo mật; cẩn mật;)
+## a situation in which you expect somebody to keep information secret (bí/bảo mật; cẩn mật)
 
 - Confidentiality requirement
