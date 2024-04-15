@@ -1,6 +1,6 @@
 # presence (n)
 
-/ˈprezns/
+/ˈprezns/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prese/presence__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pre/prese/presence__us_2.mp3) 
 
 ## the fact of being in a particular place or thing (sự hiện diện; sự có mặt; hiện tại; hiện có)
 
