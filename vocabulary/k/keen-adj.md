@@ -2,7 +2,7 @@
 
 /kiːn/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kee/keen_/keen__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kee/keen_/keen__us_1.mp3)
 
-## (Feelings) wanting to do something or wanting something to happen very much ()
+## (Feelings) wanting to do something or wanting something to happen very much (mãnh liệt; thiết tha; sôi nổi)
 
 Synonym [eager]()
 
