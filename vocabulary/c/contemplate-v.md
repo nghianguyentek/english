@@ -19,7 +19,7 @@ Synonym [consider](), [think about/of]()
 
 ## contemplate something (formal) - to think deeply about something for a long time (suy gẫm; suy tư)
 
-## contemplate somebody/something (formal) - to look at somebody/something in a careful way for a long time ()
+## (Formal) to look at somebody/something in a careful way for a long time (nhìn; ngắm)
 
 Synonym [stare at]()
 
