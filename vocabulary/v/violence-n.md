@@ -4,7 +4,7 @@
 
 Uncountable
 
-## violent behaviour that is intended to hurt or kill somebody ()
+## violent behaviour that is intended to hurt or kill somebody
 
 Topic [Crime and punishment](../topics/crime-and-punishment.md#crime--punishment), [War and conflict](../topics/war-and-conflict.md#war--conflict)
 

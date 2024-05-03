@@ -26,6 +26,7 @@
 ## as a result (và rồi; và thế là; rồi thì)
 
 - Do it again and you'll die.
+- Full of food and feeling uncomfortable
 
 ## added to (với)
 
