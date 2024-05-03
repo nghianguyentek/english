@@ -4,4 +4,5 @@
 
 ## (Specialist, Formal) a typical example or pattern of something (mẫu; mô hình; ví/thí dụ điển hình)
 
-- Visual paradigm
+- Visual Paradigm
+- Learning paradigm
