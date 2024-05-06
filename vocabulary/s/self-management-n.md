@@ -1,0 +1,5 @@
+# self-management (n)
+
+## an individual's control of their behaviour, particularly regarding the pursuit of a specific objective. Self-management is usually considered a desirable aspect for the individual personally and socially, but some forms of self-management may be detrimental to mental and physical health. Psychotherapists and counselors often seek to provide clients with methods of identifying the latter and modifying them into the former.
+
+## a behaviour therapy program in which clients are trained to apply techniques that will help them modify an undesirable behaviour, such as smoking, excessive eating, or aggressive outbursts. Clients learn to pinpoint the problem, set realistic goals for changing it, use various contingencies to establish and maintain a desired behaviour, and monitor progress.
