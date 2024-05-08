@@ -3,7 +3,11 @@
 - /bɪˈheɪvjə(r)/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/b/beh/behav/behaviour__gb_2.mp3)
 - /bɪˈheɪvjər/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/b/beh/behav/behaviour__us_2.mp3)
 
-## (Uncountable) the way that somebody behaves, especially towards other people (cách hành/cư/đối xử; hành vi)
+## the way that somebody behaves, especially towards other people
+
+Uncountable
+
+Cách hành xử; Cách cư xử; Cách đối xử; Hành vi
 
 - good/bad behaviour
 - social/antisocial/sexual/criminal behaviour

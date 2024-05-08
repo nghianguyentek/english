@@ -15,6 +15,9 @@ Xem
 - perceived to be (bị/được xem/coi/cho là)
   - The number 13 is perceived to be unlucky.
 
-## to notice or become aware of something (nhận thấy/ra)
+## to notice or become aware of something
+
+Nhận thấy; Nhận ra
 
 - a perceived regularity or pattern
+- Corrective feedback is information provided to an individual or group about how her or its behaviour, actions, style, strategies, etc. are perceived by and affecting others.
