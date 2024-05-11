@@ -1,0 +1,3 @@
+# disengaged (adj)
+
+/ˌdɪsɪnˈɡeɪdʒd/
