@@ -3,9 +3,13 @@
 - /ɪnˈvɒlvmənt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invol/involvement__gb_1.mp3)
 - /ɪnˈvɑːlvmənt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invol/involvement__us_1.mp3)
 
-## (Uncountable) the act of taking part in something or dealing with somebody (tham gia; tham dự; liên quan; dính líu; dính dáng)
+## the act of taking part in something or dealing with somebody
+
+Uncountable
 
 Synonym [participation]()
+
+Tham gia; Tham dự; Liên quan; Dính líu; Dính dáng
 
 - involvement in something
 - involvement with somebody
