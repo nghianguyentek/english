@@ -9,6 +9,6 @@ Liên tục; Thường xuyên; Không ngừng
 
 ## that does not change 
 
-Không đổi; Bất biến; Hằng
+Không đổi; Bất biến; Hằng; Nhất định
 
 - A geometric sequence has a constant ratio between its successive terms.

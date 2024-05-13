@@ -2,8 +2,21 @@
 
 /ˌɔːtəˈmætɪk/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/int/inter/internalize__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/int/inter/internalize__us_1.mp3)
 
-## done or happening without thinking (tự; tự động)
+## having controls that work without needing a person to operate them
 
-Synonym
+Tự; Tự động
 
-- automatic memory
+- fully automatic
+- automatic transmission/rifle/functions
+
+## done or happening without thinking
+
+Synonym [instinctive]()
+
+Tự; Tự động
+
+- automatic memory/function
+
+## always happening as a result of a particular action or situation
+
+Tự động
