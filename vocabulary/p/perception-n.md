@@ -8,6 +8,7 @@ Topic [Opinion and argument](../topics/opinion-and-argument.md#opinion--argument
 
 Nhận thức
 
+- perception of something
 - perception that ...
 
 ## the way you noticed things, especially with the senses
