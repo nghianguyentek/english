@@ -4,8 +4,6 @@
 
 ## in a way that involves doing something
 
-
-
 ## in a way that involves making a determined effort and not leaving something to happen by itself
 
 Tích cực; Hăng hái; Chủ động
