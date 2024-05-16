@@ -3,11 +3,30 @@
 - /ˈliːdəʃɪp/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leade/leadership__gb_1.mp3)
 - /ˈliːdərʃɪp/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/leade/leadership__us_1.mp3)
 
-## (People in society; Politics) the state or position of being a leader (lãnh đạo)
+## the state or position of being a leader
+
+Topic [People in society](../topics/people-in-society.md#people-in-society), [Politics](../topics/politics.md#politics)
+
+Lãnh đạo
 
 - a leadership position/role/contest
 - under somebody's leadership
 
-## (Personal qualities; People in society) the ability to be a leader or the qualities a good leader should have (khả năng lãnh đạo; đức tính lãnh đạo)
+## the ability to be a leader or the qualities a good leader should have
 
-## (People in society; Politics) a group of leaders of a particular organization, etc. (ban lãnh đạo)
+Topic [Personal qualities](../topics/personal-qualities.md#personal-qualities), [People in society](../topics/people-in-society.md#people-in-society)
+
+Khả năng lãnh đạo
+
+- strong leadership
+- lack of leadership
+- leadership qualities/skills
+- leadership in something
+- leadership in doing something
+- to provide leadership
+
+## a group of leaders of a particular organization, etc.
+
+Topic [People in society](../topics/people-in-society.md#people-in-society), [Politics](../topics/politics.md#politics)
+
+Ban lãnh đạo

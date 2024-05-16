@@ -14,6 +14,10 @@ Compare [static]()
 
 ## the way in which people or things behave and react to each other in a particular situation
 
+Động lực
+
 ## changes in volume in music
 
 Topic [Music](../topics/music.md#music)
+
+Cường độ
