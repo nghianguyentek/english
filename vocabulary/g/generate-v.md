@@ -4,7 +4,7 @@
 
 ## to produce energy, especially electricity
 
-Topic [Environment](../topics/environment.md#environment)
+Topic [Environment](../topics/the-environment.md#environment)
 
 Sinh; Sinh ra; Sản xuất ra
 
