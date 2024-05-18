@@ -1,3 +1,11 @@
 # engage in (pv)
 
-## engage in something; engage somebody in something (formal) - to take part in something; to make somebody take part in something (tham dự/gia)
+Formal
+
+## engage in something - to take part in something
+
+Tham gia vào
+
+## engage somebody in something - to make somebody take part in something
+
+Lôi kéo ai tham gia vào ...
