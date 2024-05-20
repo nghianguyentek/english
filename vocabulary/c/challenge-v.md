@@ -2,7 +2,9 @@
 
 /ˈtʃælɪndʒ/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chall/challenge__gb_3.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chall/challenge__us_1.mp3)
 
-## (Law and justice) to question whether a statement or an action is right, legal, etc.; to refuse to accept something (chất vấn; phản đối)
+## to question whether a statement or an action is right, legal, etc.; to refuse to accept something (chất vấn; phản đối)
+
+Topic [Law and justice](../topics/law-and-justice.md#law--justice)
 
 Synonym [dispute]()
 

@@ -3,15 +3,17 @@
 - /ˈɡrætɪtjuːd/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gra/grati/gratitude__gb_1.mp3)
 - /ˈɡrætɪtuːd/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gra/grati/gratitude__us_1.mp3)
 
-Uncountable
+uncountable
 
 ## the feeling of being grateful and wanting to express your thanks
 
 Topic [Feelings](../topics/feelings.md#feelings)
 
-Opposite [ingratitude]()
+biết ơn
 
-Lòng biết ơn; Biết ơn; Nhớ ơn
+Synonym [appreciation](../a/appreciation-n.md#the-feeling-of-being-grateful-for-something)
+
+Opposite [ingratitude]()
 
 - with gratitude
 - gratitude to somebody for something

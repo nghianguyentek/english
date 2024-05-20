@@ -1,6 +1,10 @@
 # notice (v)
 
-/ˈnəʊtɪs/
+/ˈnəʊtɪs/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/not/notic/notice__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/not/notic/notice__us_1.mp3)
+
+## to see or hear somebody/something; to become aware of somebody/something
+
+thấy; nghe; nhận thấy
 
 ## notice somebody/something - to pay attention to somebody/something (để ý; chú ý)
 
