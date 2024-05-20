@@ -6,9 +6,9 @@
 
 Topic [Success](../topics/success.md#success)
 
-Uncountable, Singular
+uncountable, singular
 
-Tôn trọng; Kính trọng
+tôn trọng; kính trọng
 
 Opposite [disrespect]()
 
@@ -21,7 +21,7 @@ Related [self-respect]()
 
 ## polite behaviour towards or care for somebody/something that you think is important
 
-Tôn trọng; Kính trọng
+tôn trọng; kính trọng
 
 Opposite [disrespect]()
 
