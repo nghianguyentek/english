@@ -10,6 +10,11 @@ Plural [stimuli]() /ˈstɪmjəlaɪ/ [🔊](https://www.oxfordlearnersdictionarie
 - stimulus to something
 - stimulus for somebody to do something
 
-## (Biology) something that produces a reaction in a human, an animal, or a plant (nguyên nhân gây nên phản ứng; tác nhân kích thích)
+## something that produces a reaction in a human, an animal, or a plant
+
+Topic [Biology](../topics/biology.md#biology)
+
+nguyên nhân; tác nhân
 
 - Stimulus-response [bond](../b/bond-n.md#something-that-forms-a-connection-between-people-or-groups-such-as-a-feeling-of-friendship-or-shared-ideas-and-experiences-mối-liên-kết)
+- Observations are what we see or hear that we identify as the stimulus to our reactions.

@@ -6,11 +6,11 @@
 
 Topic [Opinion and argument](../topics/opinion-and-argument.md#opinion--argument)
 
-bày tỏ; biểu lộ
+bày tỏ; biểu lộ; bộc lộ
 
 ## express oneself - to speak, write, or communicate in some other way what you think or feel
 
-thể hiện
+thể hiện; bộc lộ
 
 ## to [represent](../r/represent-v.md#to-present-or-describe-somebodysomething-in-a-particular-way-especially-when-this-may-not-be-fair-thể-hiện-phản-ánh) something in a particular way, for example, by [symbols](../s/symbol-n.md#a-sign-number-letter-etc-that-has-a-fixed-meaning-especially-in-science-mathematics-and-music)
 

@@ -3,15 +3,13 @@
 - /ɪnˈvɒlv/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invol/involve__gb_2.mp3)
 - /ɪnˈvɑːlv/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inv/invol/involve__us_1.mp3)
 
+in-vol-ve /ɪn-ˈvɒl-v/
+
 ## if a situation, an event, or an activity involves something, that thing is an important or necessary part or result of it
 
-Synonym [entail]()
+Synonym [entail](../e/entail-v.md#to-involve-something-that-cannot-be-avoided)
 
-Bao gồm; Đòi hỏi; Kéo theo
-
-- involve something
-- involve doing something
-- involve somebody/something doing something
+đòi hỏi; cần; kéo theo
 
 ## if a situation, an event, or an activity involves somebody/something, they take part in or are affected by it
 

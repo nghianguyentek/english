@@ -2,17 +2,19 @@
 
 /kəˈpæsəti/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cap/capac/capacity__gb_3.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cap/capac/capacity__us_3.mp3)
 
-Plural [capacities]()
+ca-pa-ci-ty /kə-ˈpæ-sə-ti/
+
+plural [capacities]()
 
 ## the number of things or people that a container or space can hold
 
-Sức chứa; Dung lượng; Dung tích
+sức chứa; dung lượng; dung tích
 
 - You can assume that the capacity of our array is eight.
 
 ## the ability to understand or to do something
 
-Khả năng; Năng lực
+khả năng; năng lực
 
 - mental/intellectual capacity
 - enormous capacity

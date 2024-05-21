@@ -1,5 +1,7 @@
 # consciousness (n)
 
+con-sc(i)ous-ness
+
 - /ˈkɒnʃəsnəs/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsciousness__gb_1.mp3)
 - /ˈkɑːnʃəsnəs/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcons/xconsciousness__us_1.mp3)
 
