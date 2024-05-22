@@ -2,6 +2,8 @@
 
 /ˈkrɪtɪsɪzəm/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cri/criti/criticism__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cri/criti/criticism__us_3.mp3)
 
+cri-ti-ci-sm /ˈkrɪ-tɪ-sɪ-zəm/
+
 ## the act of expressing disapproval of somebody/something and opinions about their faults or bad qualities; a statement showing this disapproval
 
 Topic [Opinion and argument](../topics/opinion-and-argument.md#opinion--argument)

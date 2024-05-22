@@ -3,11 +3,13 @@
 - /ˈliːdəʃɪp/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lea/leade/leadership__gb_1.mp3)
 - /ˈliːdərʃɪp/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lea/leade/leadership__us_1.mp3)
 
+lea-der-ship /ˈliː-də-ʃɪp/
+
 ## the state or position of being a leader
 
 Topic [People in society](../topics/people-in-society.md#people-in-society), [Politics](../topics/politics.md#politics)
 
-Lãnh đạo
+lãnh đạo
 
 - a leadership position/role/contest
 - under somebody's leadership
@@ -16,7 +18,7 @@ Lãnh đạo
 
 Topic [Personal qualities](../topics/personal-qualities.md#personal-qualities), [People in society](../topics/people-in-society.md#people-in-society)
 
-Khả năng lãnh đạo
+khả năng lãnh đạo
 
 - strong leadership
 - lack of leadership
@@ -29,4 +31,4 @@ Khả năng lãnh đạo
 
 Topic [People in society](../topics/people-in-society.md#people-in-society), [Politics](../topics/politics.md#politics)
 
-Ban lãnh đạo
+ban lãnh đạo

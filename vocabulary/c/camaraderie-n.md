@@ -3,6 +3,8 @@
 - /ˌkæməˈrɑːdəri/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cal/calib/calibre__gb_1.mp3)
 - /ˌkɑːməˈrɑːdəri/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cal/calib/calibre__gb_1.mp3)
 
+ca-ma-ra-de-rie /ˌkæ-mə-ˈrɑː-də-ri/
+
 uncountable
 
 ## a feeling of friendship and trust among people who work or spend a lot of time

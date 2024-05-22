@@ -4,6 +4,10 @@
 - /ɪnˈhɪərəntli/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inh/inher/inherently__gb_1.mp3)
 - /ɪnˈhɪrəntli/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/inh/inher/inherently__us_2.mp3)
 
-## according to or because of the basic nature of somebody/something (vốn; vốn dĩ; vốn đã)
+in-he-ren-t-li /ɪn-ˈhe-rən-t-li/
+
+## according to or because of the basic nature of somebody/something
+
+vốn; vốn dĩ; vốn đã
 
 Synonym [intrinsically]()

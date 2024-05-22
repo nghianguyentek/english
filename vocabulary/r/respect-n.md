@@ -2,6 +2,8 @@
 
 /rɪˈspekt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respe/respect__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/res/respe/respect__us_1.mp3)
 
+res-pec-t /rɪ-ˈspek-t/
+
 ## a strong feeling of approval of somebody/something because their good qualities or achievements
 
 Topic [Success](../topics/success.md#success)
