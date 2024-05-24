@@ -1,10 +1,16 @@
 # impact (n)
 
-- /ˈɪmpækt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impac/impact__gb_3.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impac/impact__us_1.mp3)
+/ˈɪmpækt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/impac/impact__gb_3.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/impac/impact__us_1.mp3)
+
+im-pac-t /ˈɪm-pæk-t/
+
+usually singular and uncountable
 
 ## the powerful effect that something has on somebody/something
 
-Ảnh hưởng; Tác động
+ảnh hưởng; tác động
+
+Related [low-impact]()
 
 - positive/negative/adverse impact
 - significant/major/huge/profound/dramatic impact
@@ -18,7 +24,9 @@
 
 ## the act of one object hitting another; the force with which this happens
 
-Va chạm; Va đập
+va chạm; va đập
+
+Related [high-impact]()
 
 - impact on something
 - on impact (khi va chạm)

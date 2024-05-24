@@ -2,9 +2,11 @@
 
 /θret/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/threa/threat__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/thr/threa/threat__us_1.mp3)
 
+threa-t /θre-t/
+
 ## a statement in which you tell somebody that you will finish or harm them, especially they do not do what you want
 
-Đe dọa; Hăm dọa;
+đe dọa; hăm dọa;
 
 - threat against somebody/something
   - make threats against somebody
@@ -16,7 +18,7 @@
 
 ## the possibility of trouble, danger, or disaster
 
-Nguy cơ
+nguy cơ
 
 - under threat from somebody/something
 - threat of something
@@ -27,7 +29,7 @@ Nguy cơ
 
 ## a person or thing that is likely to cause trouble, danger, etc.
 
-Mối đe dọa
+mối đe dọa
 
 - threat to somebody/something
   - threat to health/life/safety/security

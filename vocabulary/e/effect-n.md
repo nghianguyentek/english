@@ -2,7 +2,13 @@
 
 /ɪˈfekt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eff/effec/effect__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/eff/effec/effect__us_1.mp3)
 
-## (Change, cause, and effect) a change that somebody/something causes in somebody/something else; a result (ảnh hưởng; tác động; kết quả; hậu quả; hiệu quả)
+e-(f)fec-t /ɪ-ˈfek-t/
+
+## a change that somebody/something causes in somebody/something else; a result
+
+Topic [Change, cause, and effect](../topics/change-cause-and-effect.md#change-cause--effect)
+
+ảnh hưởng; tác động; kết quả; hậu quả; hiệu quả
 
 ## a particular look, sound, or impression that somebody, such as an artist or a writer, wants to create (điểm nhấn; ấn tượng; làm màu)
 

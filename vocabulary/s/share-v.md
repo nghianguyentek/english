@@ -3,9 +3,11 @@
 - /ʃeə(r)/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sha/share/share__gb_1.mp3)
 - /ʃer/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sha/share/share__us_1.mp3)
 
+sha-re /ʃe-ə(r)/
+
 ## to have, use, or experience something at the same time as somebody else
 
-Có chung; Dùng chung; Xài chung; Cùng trải qua
+có chung; dùng chung; xài chung; cùng trải qua
 
 - Would you mind sharing?
 - share something

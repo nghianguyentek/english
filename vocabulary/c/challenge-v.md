@@ -2,15 +2,23 @@
 
 /ˈtʃælɪndʒ/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cha/chall/challenge__gb_3.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/chall/challenge__us_1.mp3)
 
-## to question whether a statement or an action is right, legal, etc.; to refuse to accept something (chất vấn; phản đối)
+cha-(l)len-ge /ˈtʃæ-lɪn-dʒ/
+
+## to question whether a statement or an action is right, legal, etc.; to refuse to accept something
 
 Topic [Law and justice](../topics/law-and-justice.md#law--justice)
+
+chất vấn; phản đối
 
 Synonym [dispute]()
 
 - to challenge the decision (phản đối quyết định)
 
-## (Suggestions and advice) to invite somebody to enter a competition, fight, etc.; to suggest strongly that somebody should be something, especially when you think that they might be unwilling to do it (thách; thách thức)
+## (Suggestions and advice) to invite somebody to enter a competition, fight, etc.; to suggest strongly that somebody should be something, especially when you think that they might be unwilling to do it 
+
+Topic [Suggestions and advice](../topics/suggestions-and-advice.md#suggestions--advice)
+
+thách; thách thức
 
 - to challenge somebody to something
 - to challenge somebody to do something
