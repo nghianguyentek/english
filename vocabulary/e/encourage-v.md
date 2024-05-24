@@ -22,7 +22,7 @@ Khuyến khích
 
 Opposite [discourage]()
 
-Khơi dậy; Khơi gợi; Dụ dỗ; Xui khiến; Xúi; Xúi dục; Kích thích
+khơi dậy; khơi gợi; dụ dỗ; xui khiến; xúi; xúi dục; kích thích; thúc đẩy; nâng cao
 
 - encourage something in somebody/something
 - encourage somebody to do something

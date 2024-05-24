@@ -3,6 +3,8 @@
 - /ˈprɒmptli/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/promp/promptly__gb_1.mp3)
 - /ˈprɑːmptli/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/promp/promptly__us_1.mp3)
 
+promp-t-li /ˈprɒmp-t-li/
+
 ## without delay
 
 không trì hoãn

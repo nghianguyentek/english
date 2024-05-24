@@ -4,8 +4,8 @@
 
 ## to make somebody less friendly towards you
 
-Xa lánh; Xa cách; Xa lạ
+xa lánh; xa cách; xa lạ
 
 ## to make somebody feel that they do not belong in a particular group
 
-Xa lánh
+xa lánh
