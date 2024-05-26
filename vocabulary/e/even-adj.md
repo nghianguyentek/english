@@ -2,7 +2,9 @@
 
 /ˈiːvn/
 
-## numbers that can be divided exactly by two (chẵn)
+## numbers that can be divided exactly by two
+
+chẵn
 
 Opposite [odd](../o/odd-adj.md#numbers-that-can-not-be-divided-exactly-by-the-number-two-lẻ)
 

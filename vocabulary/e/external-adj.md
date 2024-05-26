@@ -5,6 +5,15 @@
 
 e-x-ter-nal /ɪk-ˈstɜː-nl/
 
+## connected with or located on the outside of somebody/something
+
+Topic [Buildings](../topics/buildings.md#buildings)
+
+bên ngoài
+
+Opposite [internal]()
+
+
 ## happening or coming from outside a place, an organization, your particular situation, etc.
 
 bên ngoài

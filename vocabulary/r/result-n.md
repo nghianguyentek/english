@@ -9,3 +9,13 @@ re-sul-t /rɪ-ˈzʌl-t/
 Topic [Change, cause, and effect](../topics/change-cause-and-effect.md#change-cause--effect)
 
 kết quả; hậu quả
+
+## things that are achieved successfully
+
+Topic [Success](../topics/success.md#success)
+
+plural
+
+thành quả, kết quả
+
+- Results are observable.

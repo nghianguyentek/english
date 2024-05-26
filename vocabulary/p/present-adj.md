@@ -8,7 +8,7 @@ pre-sen-t /ˈpre-zn-t/
 
 Topic [Time](../topics/time.md#time)
 
-hiện tại; đang diễn ra
+hiện tại, đang diễn ra
 
 - present situation/study/owner/purposes/condition
 - past and present

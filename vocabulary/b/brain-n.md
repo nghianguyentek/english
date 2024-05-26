@@ -6,7 +6,7 @@
 
 Topic [](../topics/body.md#body)
 
-Óc; Não; Bộ óc; Bộ não
+óc, bộ óc, não, bộ não
 
 - human brain
 - tired brain
@@ -14,7 +14,7 @@ Topic [](../topics/body.md#body)
 
 ## the ability to learn quickly and think about things in a logical and intelligent way
 
-Đầu óc; Trí tuệ
+đầu óc; trí tuệ
 
 - good brain
 - have/need/take brains

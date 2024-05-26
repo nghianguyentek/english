@@ -4,7 +4,7 @@
 
 ## a feeling of great pleasure
 
-Uncountable, Singular
+uncountable, singular
 
 Synonym [joy]()
 

@@ -8,7 +8,9 @@ plural [focuses](), [foci]() /ˈfəʊsaɪ/ [🔊](https://www.oxfordlearnersdict
 
 ## the thing or person that people are most interested in; the act of paying special attention to something and making people interested in it
 
-trọng tâm; tiêu điểm;
+trọng tâm; tiêu điểm; sự tập trung
+
+- Their focus is 200%.
 
 ## a point or distance at which the outline of an object is clearly seen by the eye or through a lens
 
