@@ -1,5 +1,9 @@
 # relation (n)
 
-/rɪˈleɪʃn/
+/rɪˈleɪʃn/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relat/relation__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rel/relat/relation__us_3.mp3)
 
-## the way in which two or more things are connected (quan hệ)
+re-la-tion /rɪ-ˈleɪ-ʃn/
+
+## the way in which two or more things are connected
+
+quan hệ

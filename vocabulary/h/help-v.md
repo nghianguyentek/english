@@ -8,4 +8,4 @@ hel-p /hel-p/
 
 Topic [Social issues](../topics/social-issues.md#social-issues)
 
-giúp; giúp đỡ; đỡ đần
+giúp, giúp đỡ; đỡ đần

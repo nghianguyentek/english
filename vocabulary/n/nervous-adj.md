@@ -5,6 +5,20 @@
 
 ner-vous /ˈnɜː-vəs/
 
+## anxious about something or afraid of something
+
+Topic [Feelings](../topics/feelings.md#feelings)
+
+ngại, lo ngại, e ngại
+
+Opposite [confident]()
+
+## easily worried or frightened
+
+Topic [Personal qualities](../topics/personal-qualities.md#personal-qualities)
+
+nhát, nhút nhát
+
 ## connected with the body's nerves and often affecting you mentally or emotionally
 
 liên quan đến hệ thần kinh; thần kinh

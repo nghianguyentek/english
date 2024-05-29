@@ -2,7 +2,7 @@
 
 /əbˈdʒektɪv/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/obj/objec/objective__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/obj/objec/objective__us_1.mp3)
 
-ob-jec-ti-ve /əb-ˈdʒek-tɪv/
+ob-jec-tive /əb-ˈdʒek-tɪv/
 
 ## something that you are trying to achieve
 

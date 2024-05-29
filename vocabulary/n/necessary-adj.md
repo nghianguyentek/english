@@ -21,4 +21,4 @@ cần
 Synonym [inevitable](../i/inevitable-adj.md#that-you-cannot-avoid-or-prevent)
 
 - a necessary [condition](../c/condition-n.md#a-situation-that-must-exist-in-order-for-something-else-to-happen-điều-kiện)
-- The necessary skills and knowledge are present
+- The necessary skills and knowledge are present.
