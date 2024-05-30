@@ -2,7 +2,7 @@
 
 /prəˈməʊt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/promo/promote__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/promo/promote__us_1.mp3)
 
-pro-mo-te /prə-ˈməʊ-t/
+pro-mo-te /prə-ˈməʊt/
 
 ## to help sell a product, service, etc., or make it more popular by advertising it or offering it at a special price
 

@@ -40,7 +40,7 @@ sống
 
 ## to continue to exist or be remembered
 
-Intransitive
+intransitive
 
 Synonym [remain]()
 
@@ -48,6 +48,6 @@ sống
 
 ## to have a full and exciting life
 
-Intransitive
+intransitive
 
 sống

@@ -3,6 +3,8 @@
 - /kənˈtrɪbjuːt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontribute__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontribute__us_1.mp3)
 - /ˈkɒntrɪbjuːt/[🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontribute__gb_3.mp3)
 
+con-tri-bute /kən-ˈtrɪ-bjuːt/
+
 ## to give something, especially money or goods, to help achieve or provide something
 
 đóng góp; góp phần
@@ -15,7 +17,7 @@
 
 Topic [Change, cause, and effect](../topics/change-cause-and-effect.md#change-cause--effect)
 
-Intransitive
+intransitive
 
 góp phần
 

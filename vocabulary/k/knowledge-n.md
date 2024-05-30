@@ -2,7 +2,7 @@
 
 /ˈnɒlɪdʒ/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knowl/knowledge__gb_3.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knowl/knowledge__us_2.mp3)
 
-(k)no(w)-led-ge /ˈnɒ-lɪd-ʒ/
+know-ledge /ˈnɒ-lɪdʒ/
 
 ## the [information](../i/information-n.md#facts-or-details-about-somebodysomething), understanding, and skills that you gain through education or experience
 

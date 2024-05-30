@@ -3,10 +3,12 @@
 - /ˈfɒstə(r)/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acq/acqua/acquaint__gb_1.mp3)
 - /ˈfɑːstər/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acq/acqua/acquaint__gb_1.mp3)
 
-## foster something - to encourage something to develop
+fos-ter /ˈfɒs-tə(r)/
 
-Synonym [encourage](), [promote]()
+## to encourage something to develop
 
-Thúc đẩy; Cổ vũ
+Synonym [encourage](../e/encourage-v.md#to-make-something-more-likely-to-happen-or-develop), [promote](../p/promote-v.md#to-help-something-to-happen-or-develop)
+
+thúc đẩy; cổ vũ
 
 - Fostering a strong community is essential for personal and intellectual growth.

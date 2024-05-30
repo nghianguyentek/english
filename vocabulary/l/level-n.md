@@ -2,9 +2,11 @@
 
 /ˈlevl/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lev/level/level__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lev/level/level__us_2.mp3)
 
+le-vel
+
 ## the height of something in relation to the ground or to what it used to be
 
-Độ cao so với mặt đất; mực nước; mức
+độ cao so với mặt đất; mực nước; mức
 
 - ground level
 - lowest level
@@ -16,7 +18,7 @@
 
 Topic [Houses and homes](../topics/houses-and-homes.md#houses--homes)
 
-Tầng
+tầng
 
 - lowest level
 - on the level
@@ -24,7 +26,7 @@ Tầng
 
 ## the amount of something that exists in a particular situation at a particular time
 
-Mức; Mức độ
+mức; mức độ
 
 - level of support
 - level of something
@@ -37,7 +39,7 @@ Mức; Mức độ
 
 ## a particular standard or quality
 
-Trình độ
+trình độ
 
 - level of service
 - to maintain ... level of something
@@ -47,21 +49,21 @@ Trình độ
 
 ## a position or rank in a scale of size or importance
 
-Bậc; Tầm; Mức; Mức độ; Cấp; Cấp độ
+bậc; tầm; mức, mức độ; cấp, cấp độ
 
 - at a ... level
 - at local/international level
 
 ## a particular way of looking at, reacting to or understanding something
 
-Mức; Mức độ
+mức, mức độ
 
 - on a ... level
 - at a ... level
 
 ## one of a series of stages in a computer game. Players progress from easy to more advanced levels within the game
 
-Màn; Trình độ; Mức; Mức độ; Cấp; Cấp độ
+màn; trình độ; mức, mức độ; cấp, cấp độ
 
 ## a device used to test whether a surface is level, consisting a glass tube partly filled with liquid with a bubble of air inside. The position of the bubble indicated whether the surface is level.
 
