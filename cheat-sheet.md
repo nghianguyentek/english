@@ -10,7 +10,7 @@
 |         co(v)          |    kʌ     |
 |         co(ll)         |    kɒ     |
 |         com(p)         |    kʌm    |
-|         con(s)         |    kən    |
+|     con(s), con(t)     |    kən    |
 |         cu(r)          |   kjʊə    |
 |         de(m)          |    dɪ     |
 |          der           |   də(r)   |
@@ -22,15 +22,18 @@
 |         e(rr)          |     e     |
 |   e(s), e(ss), e(v)    |     ɪ     |
 |         em(b)          |    ɪm     |
+|          ence          |    əns    |
 |         fa(v)          |    feɪ    |
 |          fail          |   feɪl    |
 |         fe(ss)         |    fe     |
 |          ggle          |    ɡl     |
+|          gion          |   dʒən    |
 |          goal          |   ɡəʊl    |
 |           gy           |    dʒi    |
 |         im(p)          |    ɪm     |
 |         jec(t)         |   dʒek    |
 |         la(t)          |    leɪ    |
+|         li(e)          |    li     |
 |         li(t)          |    lə     |
 |         lis(t)         |    lɪs    |
 |        lleague         |   liːɡ    |
@@ -60,13 +63,14 @@
 |         po(s)          |    pɒ     |
 |         por(t)         |    pɔː    |
 |         pro(f)         |    prə    |
-|         re(l)          |    rɪ     |
+|      re(l), re(s)      |    rɪ     |
 |         rea(l)         | riːə, rɪə |
 |         rrass          |    rəs    |
 |         ri(o)          |    rɪ     |
 |          rror          |   rə(r)   |
 |          shy           |    ʃaɪ    |
 |         si(d)          |    sɪ     |
+|         si(l)          |    zɪ     |
 |          sion          |    ʃn     |
 |         sis(t)         |    sɪs    |
 |          soon          |   suːn    |
@@ -77,7 +81,7 @@
 |        ssio(na)        |    ʃə     |
 |         stake          |   steɪk   |
 |        stru(g)         |   strʌ    |
-|         ta(t)          |    teɪ    |
+|     ta(t), ta(gi)      |    teɪ    |
 |          tage          |   tɪdʒ    |
 |          tant          |    tnt    |
 |        tech(n)         |    tek    |
