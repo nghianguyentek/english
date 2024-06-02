@@ -12,4 +12,4 @@ Topic [Preferences and decisions](../topics/preferences-and-decisions.md#prefere
 
 cân nhắc
 
-- 
+- Have I deliberated about my desired gains-views as well as possible gains of others?

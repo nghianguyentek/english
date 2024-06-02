@@ -19,7 +19,18 @@ cung cấp không gian; dung nạp; chứa; đựng
 
 ## to consider something such as somebody's opinion or a fact and be influenced by it when you are deciding what to do or explaining something
 
+xem xét; đáp ứng
 
+- Have I asked to be accommodated?
+- Have I accepted to help accommodate someone else's valid needs?
+
+## to help somebody by doing what they want
+
+transitive, formal
+
+giúp, giúp đỡ
+
+Synonym [oblige]()
 
 ## to change your behavior so that you can deal with a new situation better
 

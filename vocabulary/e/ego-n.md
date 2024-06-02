@@ -11,6 +11,8 @@ plural [egos]()
 
 cái tôi
 
+- Have I risen above my ego?
+
 ## the part of the mind that is responsible for your sense of who you are
 
 Topic [Psychology](../topics/psychology.md#psychology)
