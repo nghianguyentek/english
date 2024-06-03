@@ -15,7 +15,7 @@ Mối liên hệ
 
 ## the act of connecting or the state of being connected
 
-Topic [Phones, email, and the internet](../topics/phone-email-and-the-internet.md#phone-email--the-internet)
+Topic [Phones, email, and the internet](../topics/phones-email-and-the-internet.md#phones-email--the-internet)
 
 Kết nối; Sự kết nối
 

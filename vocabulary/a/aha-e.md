@@ -4,4 +4,6 @@
 
 a-ha /ɑː-ˈhɑː/
 
+also [ah-ha]()
+
 ## used when you are expressing pleasure that you have understood something or found something out

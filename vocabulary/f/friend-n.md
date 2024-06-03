@@ -20,7 +20,7 @@ Bạn
 
 ## a person who is on your list of contacts on a social media website
 
-Topic [Phones, email, and the internet](../topics/phone-email-and-the-internet.md#phone-email--the-internet)
+Topic [Phones, email, and the internet](../topics/phones-email-and-the-internet.md#phones-email--the-internet)
 
 - Facebook friends
 

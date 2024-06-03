@@ -22,7 +22,7 @@ Sợi
 
 ## a series of connected messages on email, social media, etc. that have been sent by different people
 
-Topic [Phone, email, and the internet](../topics/phone-email-and-the-internet.md#phone-email--the-internet)
+Topic [Phone, email, and the internet](../topics/phones-email-and-the-internet.md#phones-email--the-internet)
 
 Luồng
 
