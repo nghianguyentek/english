@@ -10,7 +10,7 @@ Topic [Success](../topics/success.md#success)
 
 hài lòng; toại nguyện
 
-Related [dissatisfaction]()
+Opposite [dissatisfaction](../d/dissatisfaction-n.md#a-feeling-that-you-are-not-pleased-or-satisfied)
 
 ## the act of fulfilling a need or desire
 

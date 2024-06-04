@@ -23,10 +23,16 @@ thách; thách thức
 - to challenge somebody to something
 - to challenge somebody to do something
 
-## to enter into a competition against somebody to achieve something or take something from them (đương đầu; đối đầu)
+## to enter into a competition against somebody to achieve something or take something from them
+
+đương đầu; đối đầu
 
 - to challenge unfair things
 
-## to test somebody's ability and skills, especially in an interesting way (thử thách)
+## to test somebody's ability and skills, especially in an interesting way 
 
-## to order somebody to stop and say who they are or what they are doing (tra hỏi)
+thử, thử thách
+
+## to order somebody to stop and say who they are or what they are doing
+
+tra hỏi

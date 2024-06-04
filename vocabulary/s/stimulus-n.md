@@ -2,9 +2,13 @@
 
 /ˈstɪmjələs/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stimu/stimulus__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stimu/stimulus__us_1.mp3)
 
-Plural [stimuli]() /ˈstɪmjəlaɪ/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stimu/stimuli__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stimu/stimuli__us_1.mp3)
+plural [stimuli]() /ˈstɪmjəlaɪ/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sti/stimu/stimuli__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sti/stimu/stimuli__us_1.mp3)
 
-## something that helps somebody/something to develop better or more quickly (sự kích thích; sự thúc đẩy)
+sti-mu-lus /ˈstɪ-mjə-ləs/
+
+## something that helps somebody/something to develop better or more quickly
+
+sự kích thích; sự thúc đẩy
 
 - stimulus for something
 - stimulus to something
