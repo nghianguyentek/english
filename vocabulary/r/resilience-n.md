@@ -8,12 +8,12 @@ re-si-li-ence /rɪ-ˈzɪ-li-əns/
 
 uncountable
 
-## the ability of people or thing to recover quickly after something unpleasant, such as sock, injury, etc.
+## the capacity to withstand or to recover quickly from difficulties; toughness
 
 kiên cường
 
 - failure resilience
 
-## the ability of a substance to return to its original shape after it has been bent, stretched, or pressed
+## the ability of a substance or object to spring back into shape; elasticity
 
 đàn hồi, co giãn, dẻo

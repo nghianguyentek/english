@@ -6,10 +6,6 @@ rest-les(s)-nes(s) /ˈrest-ləs-nəs/
 
 uncountable
 
-## the state of being unable to stay still or be happy where you are, because you are bored or need a change
+## the inability to rest or relax as a result of anxiety or boredom
 
-hiếu động, tăng động
-
-## the state of being unable to rest or sleep properly
-
-bồn chồn, bất an; thao thức
+không yên, hiếu động; thao thức, bồn chồn

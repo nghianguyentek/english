@@ -4,12 +4,6 @@
 
 mind-f(u)l-nes(s) /ˈmaɪnd-fl-nəs/
 
-uncountable, formal
+## the quality or state of being conscious or aware of something
 
-## the fact of remember somebody/something and considering them/it when you do something
-
-Synonym [consciousness]()
-
-## the mental state achieved by concentrating on the present moment, while calmly accepting the feelings and thoughts that come to you, used as a technique to help you relax
-
-Topic [Mental health](../topics/mental-health.md#mental-health)
+## a mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations, used as a therapeutic technique

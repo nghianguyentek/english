@@ -1,7 +1,7 @@
 |                                                   |           |
 |:-------------------------------------------------:|:---------:|
 |          a(b), a(cc), a(lo), a(ss), a(v)          |     ə     |
-|                       a(li)                       |     æ     |
+|                   a(li), a(ve)                    |     æ     |
 |                        act                        |    ækt    |
 |                       ad(v)                       |    əd     |
 |                        al                         |    əl     |
@@ -19,21 +19,23 @@
 |                       break                       |   breɪk   |
 |                       bute                        |   bjuːt   |
 |                        cal                        |    kl     |
+|                      can(di)                      |    kæn    |
 |                      ccu(m)                       |   kjuː    |
+|                 cco(mm), co(lle)                  |    kɒ     |
+|                     cha(nne)                      |    tʃæ    |
 |                  ci(li), ci(pro)                  |    sɪ     |
 |                      ci(ty)                       |    sə     |
 |                   cial, cial(l)                   |    ʃə     |
-|                      can(di)                      |    kæn    |
-|                 cco(mm), co(lle)                  |    kɒ     |
-|                      cor(po)                      |    kɔː    |
 |                      cli(ma)                      |   klaɪ    |
 |                       co(v)                       |    kʌ     |
 |                 co(lla), co(lle)                  |    kə     |
 |                      com(p)                       |    kʌm    |
 |                      com(pe)                      |    kɒm    |
 |                     com(pri)                      |    kəm    |
-|         con(s), con(ti), con(tr), con(vi)         |    kən    |
+|        con(si), con(ti), con(tr), con(vi)         |    kən    |
 |                       cool                        |   kuːl    |
+|                      cor(po)                      |    kɔː    |
+|                       crave                       |   kreɪv   |
 |                     cro(blo)                      |   krəʊ    |
 |                      cu(ba)                       |    kju    |
 |                       cu(r)                       |   kjʊə    |
@@ -79,6 +81,7 @@
 |                       goal                        |   ɡəʊl    |
 |                      ground                       |  ɡraʊnd   |
 |                        gy                         |    dʒi    |
+|                      has(ty)                      |   heɪs    |
 |                       im(p)                       |    ɪm     |
 |                      in(cu)                       |    ɪŋ     |
 |           in(co), in(di), in(s), in(ve)           |    ɪn     |
@@ -120,6 +123,7 @@
 |                       ni(t)                       |    nə     |
 |                       nion                        |   njən    |
 |                       no(l)                       |    nɒ     |
+|                        nue                        |   njuː    |
 |                      nur(t)                       |    nɜː    |
 |                        ny                         |    ni     |
 |                       ob(j)                       |    əb     |
@@ -161,7 +165,7 @@
 |                      si(lo)                       |    saɪ    |
 |                       sight                       |   saɪt    |
 |                       sion                        |    ʃn     |
-|                      sis(t)                       |    sɪs    |
+|                      sis(te)                      |    sɪs    |
 |                      so(li)                       |    sɒ     |
 |                       soon                        |   suːn    |
 |                      spe(c)                       |    spe    |
@@ -185,7 +189,7 @@
 |                       te(g)                       |    tə     |
 |                      tech(n)                      |    tek    |
 |                       tence                       |   təns    |
-|                      tent(l)                      |   tənt    |
+|                   tent, tent(l)                   |   tənt    |
 |                        ter                        |   tə(r)   |
 |                       ther                        |   ðə(r)   |
 |                      ther(w)                      |    ðə     |
@@ -210,6 +214,7 @@
 |                      va(li)                       |    væ     |
 |                      vai(l)                       |    veɪ    |
 |                      van(t)                       |   vɑːn    |
+|                      ve(nue)                      |    və     |
 |                       ve(l)                       |    ve     |
 |                        vel                        |    vl     |
 |                       vent                        |   vent    |
