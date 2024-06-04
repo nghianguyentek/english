@@ -2,6 +2,10 @@
 
 Tones and I
 
+<video width="960" height="402" controls>
+    <source src="dance-monkey.mp4" type="video/mp4">
+</video>
+
 ```
 They say oh my god I see the way you shine 
 Take your hands my dear and place them both in mine
