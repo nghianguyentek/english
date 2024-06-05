@@ -4,6 +4,7 @@
 |                   a(li), a(ve)                    |     æ     |
 |                        act                        |    ækt    |
 |                       ad(v)                       |    əd     |
+|                        aid                        |    eɪd    |
 |                        al                         |    əl     |
 |                       al(r)                       |    ɔːl    |
 |                       am(b)                       |    æm     |
@@ -11,6 +12,7 @@
 |                      at(mo)                       |    æt     |
 |                      ba(rr)                       |    bæ     |
 |                     ba(tion)                      |    beɪ    |
+|                       bate                        |   beɪt    |
 |               bi(l), bi(qui), bi(t)               |    bɪ     |
 |                        ble                        |    bl     |
 |                     blo(ggi)                      |    blɒ    |
@@ -22,9 +24,9 @@
 |                      can(di)                      |    kæn    |
 |                      ccu(m)                       |   kjuː    |
 |                 cco(mm), co(lle)                  |    kɒ     |
+|                  cer(ba), ci(ty)                  |    sə     |
 |                     cha(nne)                      |    tʃæ    |
 |                  ci(li), ci(pro)                  |    sɪ     |
-|                      ci(ty)                       |    sə     |
 |                   cial, cial(l)                   |    ʃə     |
 |                      cli(ma)                      |   klaɪ    |
 |                       co(v)                       |    kʌ     |
@@ -34,6 +36,7 @@
 |                     com(pri)                      |    kəm    |
 |        con(si), con(ti), con(tr), con(vi)         |    kən    |
 |                       cool                        |   kuːl    |
+|                       cope                        |   kəʊp    |
 |                      cor(po)                      |    kɔː    |
 |                       crave                       |   kreɪv   |
 |                     cro(blo)                      |   krəʊ    |
@@ -53,6 +56,7 @@
 |                  dis(a), dis(sa)                  |    dɪs    |
 |                      do(mai)                      |    dəʊ    |
 |                      du(al)                       |    dʒu    |
+|                       duce                        |   djuːs   |
 |                        dy                         |    di     |
 |                       e(go)                       |     i     |
 |                       e(rr)                       |     e     |
@@ -79,7 +83,9 @@
 |                        go                         |    ɡəʊ    |
 |                      go(gi)                       |    ɡɒ     |
 |                       goal                        |   ɡəʊl    |
+|                       good                        |    ɡʊd    |
 |                      ground                       |  ɡraʊnd   |
+|                      gu(la)                       |    ɡju    |
 |                        gy                         |    dʒi    |
 |                      has(ty)                      |   heɪs    |
 |                       im(p)                       |    ɪm     |
@@ -90,7 +96,7 @@
 |                      know(l)                      |    nɒ     |
 |           la(bi), li(t), li(ty), lo(g)            |    lə     |
 |                      la(bo)                       |    læ     |
-|                       la(t)                       |    leɪ    |
+|                     la(tion)                      |    leɪ    |
 |                       late                        |   leɪt    |
 |                      le(dg)                       |    lɪ     |
 |                  le(mma), le(v)                   |    le     |
@@ -121,6 +127,7 @@
 |                       ness                        |    nəs    |
 |                      net(w)                       |    net    |
 |                       ni(t)                       |    nə     |
+|                       ning                        |    nɪŋ    |
 |                       nion                        |   njən    |
 |                       no(l)                       |    nɒ     |
 |                        nue                        |   njuː    |
@@ -141,19 +148,20 @@
 |                      plu(ra)                      |   plʊə    |
 |                       po(s)                       |    pɒ     |
 |                      por(t)                       |    pɔː    |
+|                       pose                        |   pəʊz    |
 |                       prise                       |   praɪz   |
-|                  pro(f), pro(m)                   |    prə    |
+|              pro(f), pro(m), pro(vi)              |    prə    |
 |                      pro(ci)                      |    prɒ    |
 |                       probe                       |   prəʊb   |
 |                     qui(tou)                      |    kwɪ    |
 |                      ra(li)                       |    rə     |
 |                       rate                        |   reɪt    |
 |                       re(a)                       |    ri     |
-|            re(l), re(s), ri(m), ri(o)             |    rɪ     |
-|                  re(ci), rea(d)                   |    re     |
+|        re(du), re(l), re(s), ri(m), ri(o)         |    rɪ     |
+|              re(ci), re(gu), rea(d)               |    re     |
 |                      rea(l)                       | riːə, rɪə |
+|                  rea(so), ri(es)                  |    riː    |
 |                      ren(di)                      |    rən    |
-|                      ri(es)                       |    riː    |
 |                       rrass                       |    rəs    |
 |                       rror                        |   rə(r)   |
 |                      sa(ti)                       |    sæ     |
@@ -166,6 +174,7 @@
 |                       sight                       |   saɪt    |
 |                       sion                        |    ʃn     |
 |                      sis(te)                      |    sɪs    |
+|                      so(ni)                       |    zə     |
 |                      so(li)                       |    sɒ     |
 |                       soon                        |   suːn    |
 |                      spe(c)                       |    spe    |
@@ -220,12 +229,14 @@
 |                       vent                        |   vent    |
 |                        ver                        |   və(r)   |
 |                      ves(ti)                      |    ves    |
-|                      vi(du)                       |    vɪ     |
+|                  vi(du), vi(go)                   |    vɪ     |
+|                       vide                        |   vaɪd    |
 |                       vince                       |   vɪns    |
 |                       vour                        |    vər    |
 |                       vous                        |    vəs    |
 |                      weak(n)                      |   wiːk    |
 |                       wise                        |   waɪz    |
 |                       work                        |   wɜːk    |
+|                      xa(ce)                       |    zæ     |
 |                     xam(ple)                      |   zɑːm    |
 |                        xus                        |    səs    |
