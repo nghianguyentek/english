@@ -123,6 +123,7 @@
 |                      mu(re)                       |    mjʊ    |
 |                        nal                        |    nl     |
 |                      ne(xu)                       |    nek    |
+|                       need                        |   niːd    |
 |                      ner(v)                       |    nɜː    |
 |                       ness                        |    nəs    |
 |                      net(w)                       |    net    |
@@ -211,6 +212,7 @@
 |                      tis(fa)                      |    tɪs    |
 |                       tive                        |    tɪv    |
 |                      to(pi)                       |    tɒ     |
+|                       toad                        |   təʊd    |
 |                       tous                        |    təs    |
 |                      trai(t)                      |   treɪ    |
 |                       trend                       |   trend   |

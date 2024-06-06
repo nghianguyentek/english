@@ -2,30 +2,22 @@
 
 /niːd/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nee/need_/need__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/n/nee/need_/need__us_1.mp3)
 
-nee-d /niː-d/
+plural **needs**
 
-## a situation when something is necessary or must be done
+## 1.
 
-Topic [Permission and obligation](../topics/permission-and-obligation.md#permission--obligation)
+### circumstances in which something is necessary, or that require some course of action; necessity
 
-singular, uncountable
+necessity, obligation, requirement, call, demand, exigency
 
-nhu cầu
+## 2.
 
-## a strong feeling that you want somebody/something or must have something
+### a thing that is wanted or required
 
-nhu cầu; cần
+requirement, essential, necessity, want, requisite, prerequisite, wish, demand, desideratum
 
-## the things that somebody required in order to live in a comfortable way or achieve what they want
+## 3.
 
-nhu cầu
+### the state of requiring help, or of lacking basic necessities such as food
 
-Related [special needs]()
-
-## the state of not having enough food, money, or support
-
-cần
-
-Synonym [hardship]()
-
-Related [needy]()
+neediness, want, poverty, deprivation, privation, hardship, penury, destitution, indigence, impecuniousness, difficulty, trouble, distress, crisis, emergency, urgency, extremity, dire straits, desperate straits, exigency, needy, requiring help, deprived, disadvantaged, underprivileged, in want, poor, badly off, unable to make ends meet, impoverished, poverty-stricken, destitute, penurious, impecunious, indigent, on the breadline, necessitous

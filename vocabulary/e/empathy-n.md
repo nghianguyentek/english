@@ -4,10 +4,10 @@
 
 em-pa-thy /ˈem-pə-θi/
 
-uncountable
+## 1.
 
-## the ability to understand another person's feelings, experience, ect.
+### the ability to understand and share the feelings of another
 
-Topic [Personal qualities](../topics/personal-qualities.md#personal-qualities)
+affinity with, rapport with, sympathy with, understanding of, sensitivity toward, sensibility to, identification with, awareness of, fellowship with, fellow feeling for, like-mindedness, togetherness, closeness to, chemistry
 
-thấu cảm; thấu hiểu
+Opposite distance

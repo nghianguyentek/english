@@ -4,30 +4,14 @@
 
 im-pac-t /ˈɪm-pæk-t/
 
-usually singular and uncountable
+plural **impacts**
 
-## the powerful effect that something has on somebody/something
+## 1.
 
-ảnh hưởng; tác động
+### the action of one object coming forcibly into contact with another
 
-Related [low-impact]()
+collision, crash, smash, clash, bump, bang, knock, jolt, thump, whack, thwack, slam, smack, contact
 
-- positive/negative/adverse impact
-- significant/major/huge/profound/dramatic impact
-- environmental/economic impact
-- to have/make an impact
-- to reduce/minimize the impact of something
-- impact on something
-- impact of something on doing something
-- impact from something
-- To affect their exploitability and impact.
+### the effect or influence of one person, thing, or action, on another
 
-## the act of one object hitting another; the force with which this happens
-
-va chạm; va đập
-
-Related [high-impact]()
-
-- impact on something
-- on impact (khi va chạm)
-- side impact ()
+effect, influence, impression, footprint, results, aftermath, consequences, repercussions, ramifications, reverberations, payoff
