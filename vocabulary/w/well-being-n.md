@@ -2,12 +2,10 @@
 
 /ˈwel biːɪŋ/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wel/well_/well_being_1_gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/w/wel/well_/well_being_1_us_3.mp3)
 
-Uncountable
+well-be-ing /ˈwel-bi-ɪŋ/
 
-## general health and happiness
+also wellbeing
 
-Sức khoẻ; Hạnh phúc
+## the state of being comfortable, healthy, or happy
 
-- emotional/physical/psychological well-being
-- a sense of well-being
-- the well-being of somebody
+welfare, health, good health, happiness, comfort, security, safety, protection, prosperity, profit, good, success, fortune, good fortune, advantage, interest, prosperousness, successfulness
