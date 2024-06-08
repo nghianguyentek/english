@@ -4,22 +4,26 @@
 
 know-ledge /ˈnɒ-lɪdʒ/
 
-## the [information](../i/information-n.md#facts-or-details-about-somebodysomething), understanding, and skills that you gain through education or experience
+plural **knowledges**
 
-Topic [Education](../topics/education-n.md#education)
+## 1.
 
-uncountable, singular
+### facts, information, and skills acquired by a person through experience or education; the theoretical or practical understanding of a subject
 
-kiến thức
+kiến thức, hiểu biết
 
-Related [carnal knowledge](), [general knowledge](), [self-knowledge]()
+understanding, comprehension, grasp, grip, command, mastery, apprehension, expertise, skill, proficiency, expertness, accomplishment, adeptness, capacity, capability, savoir faire, know-how, learning, erudition, education, scholarship, letters, schooling, science, wisdom, enlightenment, philosophy, familiarity with, acquaintance with, conversance with, intimacy with, information, facts, data, intelligence, news, reports, lore, info, lowdown, gen
 
-## the state of knowing about a particular fact or situation
+Opposite ignorance, illiteracy
 
-hiểu biết
+### what is known in a particular field or in total; facts and information
 
-## information, considered as a resource to be used and supplied in industry, rather than producing goods
+### Philosophy - true, justified belief; certain understanding, as opposed to opinion
 
-used before another noun
+## 2.
 
-tri thức
+### awareness or familiarity gained by experience of a fact or situation
+
+awareness, consciousness, realization, recognition, cognition, apprehension, perception, appreciation, cognizance
+
+Opposite unawareness
