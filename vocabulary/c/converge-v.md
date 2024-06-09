@@ -5,20 +5,26 @@
 
 con-verge /kən-ˈvɜːdʒ/
 
-## (of people or vehicles) to move towards a place from different directions and meet
+## 1.
 
-intransitive
+### (of lines) tend to meet at a point
 
-tập trung, tụ tập, hội tụ
+meet, intersect, cross, come together, connect, link up, coincide, join, unite, merge
 
-## (of two or more lines, paths, etc.) to move towards each other and meet at a point
+Opposite separate, diverge
 
-intransitive
+### (of several people or things) come together from different directions so as eventually to meet
 
-giao, hội tụ, đồng quy
+close in on, bear down on, descend on, approach, draw near to, draw nearer to, come close to, come closer to, move toward
 
-## (of ideas, policies, aims, etc.) become very similar or the same
+Opposite leave, retreat from
 
-Opposite [diverge]()
+### come from different directions and meet at (a place)
 
-gom lại; gộp lại; hợp lại; thống nhất
+### (of a number of things) gradually change so as to become similar or develop something in common
+
+- Emotional contagion is the tendency for two individuals to emotionally converge.
+
+## 2.
+
+### Mathematics - (of a series) approximate in the sum of its items towards a definite limit

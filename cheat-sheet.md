@@ -15,6 +15,7 @@
 |                            bate                             |   beɪt    |
 |                    bi(l), bi(qui), bi(t)                    |    bɪ     |
 |                             ble                             |    bl     |
+|                            bling                            |   blɪŋ    |
 |                          blo(ggi)                           |    blɒ    |
 |                            bo(r)                            |    bə     |
 |                          breɪ(kɪ)                           |   breɪ    |
@@ -65,6 +66,7 @@
 |                            e(rr)                            |     e     |
 |                      e(s), e(ss), e(v)                      |     ɪ     |
 |                            e(xa)                            |    ɪɡ     |
+|                           ear(ne)                           |    ɜː     |
 |                            em(b)                            |    ɪm     |
 |                            ence                             |    əns    |
 |                             es                              |     z     |
@@ -77,6 +79,7 @@
 |                            feel                             |   fiːl    |
 |                            fest                             |   fest    |
 |                           fin(d)                            |   faɪn    |
+|                            fold                             |   fəʊld   |
 |                           fos(t)                            |    fɒs    |
 |                            fuse                             |   fjuːz   |
 |                            gate                             |   ɡeɪt    |
@@ -90,13 +93,14 @@
 |                            goal                             |   ɡəʊl    |
 |                            good                             |    ɡʊd    |
 |                           ground                            |  ɡraʊnd   |
+|                          grum(bli)                          |   ɡrʌm    |
 |                           gu(la)                            |    ɡju    |
 |                             gy                              |    dʒi    |
 |                           has(ty)                           |   heɪs    |
 |                           hu(mi)                            |   hjuː    |
 |                            im(p)                            |    ɪm     |
 |                           in(cu)                            |    ɪŋ     |
-|                in(co), in(di), in(s), in(ve)                |    ɪn     |
+|               in(co), in(di), in(te), in(ve)                |    ɪn     |
 |                           jec(t)                            |   dʒek    |
 |                           jeo(pa)                           |    dʒe    |
 |                            king                             |    kɪŋ    |
@@ -135,6 +139,7 @@
 |                            need                             |   niːd    |
 |                           ner(v)                            |    nɜː    |
 |                            ness                             |    nəs    |
+|                            nest                             |   nɪst    |
 |                           net(w)                            |    net    |
 |                           ni(fe)                            |    nɪ     |
 |                            ni(t)                            |    nə     |
@@ -211,6 +216,7 @@
 |                            te(g)                            |    tə     |
 |                           tech(n)                           |    tek    |
 |                            tence                            |   təns    |
+|                            tense                            |   tens    |
 |                        tent, tent(l)                        |   tənt    |
 |                            tent                             |    tnt    |
 |                             ter                             |   tə(r)   |

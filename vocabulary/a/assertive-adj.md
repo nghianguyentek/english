@@ -3,13 +3,12 @@
 - /əˈsɜːtɪv/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/asser/assertive__gb_1.mp3)
 - /əˈsɜːrtɪv/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ass/asser/assertive__us_1.mp3)
 
-## expressing opinions or desires strongly and with confidence, so that people take notice
+a-sser-tive /əˈsɜːtɪv/
 
-Topic [Opinion and argument](../topics/opinion-and-argument.md#opinion--argument), [Personal qualities](../topics/personal-qualities.md#personal-qualities)
+## 1.
 
-Opposite [submissive]()
+### having or showing a confident and forceful personality
 
-Tự tin
+confident, forceful, self-confident, positive, bold, decisive, assured, self-assured, self-possessed, believing in oneself, self-assertive, authoritative, strong-willed, insistent, firm, determined, commanding, bullish, dominant, domineering, assaultive, feisty, not backward in coming forward, pushy, pushful
 
-- more assertive
-- assertive behaviour
+Opposite retiring
