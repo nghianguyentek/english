@@ -2,13 +2,20 @@
 
 /kənˈtempt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontempt__gb_1.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/x/xco/xcont/xcontempt__us_1.mp3)
 
-Uncountable, singular
+con-tempt /kən-ˈtempt/
 
-## (Feelings) the feeling that somebody/something is without value and deserves no respect at all (coi thường/khinh; khinh thường/miệt/rẻ)
+## 1.
 
-- with contempt
-- beneath contempt
-- in contempt
-- 
+### the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn
 
-## (Feelings) contempt for something - a lack of worry or fear about rules, danger, etc. (bất chấp; mặc kệ)
+scorn, disdain, disrespect, deprecation, disparagement, denigration, opprobrium, odium, obloquy, scornfulness, derision, mockery, ridicule, disgust, loathing, detestation, abhorrence, hatred, contumely
+
+Opposite respect
+
+### disregard for something that should be taken into account
+
+disrespect, disregard, slighting, neglect, contumacy
+
+Opposite respect
+
+### the offense of being disobedient to or disrespectful of a court of law and its officers
