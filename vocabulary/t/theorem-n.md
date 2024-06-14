@@ -1,5 +1,23 @@
 # theorem (n)
 
-/ˈθɪərəm/
+- /ˈθɪərəm/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/the/theor/theorem__gb_1.mp3)
+- /ˈθiːərəm/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theor/theorem__us_2_rr.mp3)
+- /ˈθɪrəm/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/the/theor/theorem__us_1_rr.mp3)
 
-## a [rule](../r/rule-n.md#a-statement-of-what-is-possible-according-to-a-particular-system-qui-tắc) or [principle](../p/principle-n.md#a-law-a-rule-or-a-theory-that-something-is-based-on-nguyên-tắc), especially in math, that can be [proved](../p/prove-v.md#prove-something---to-show-it-is-true-chứng-minh) to be [true](true-adj.md#connected-with-facts-rather-than-things-that-have-been-invented-or-guessed-đúng-sự-thật) (định lý)
+the-o-rem /ˈθɪ-ə-rəm/
+
+plural **theorems**
+
+## 1.
+
+### Physics, Mathematics - a general proposition not self-evident but proved by a chain of reasoning; a truth established by means of accepted truths
+
+proposition, hypothesis, postulate, thesis, assumption, deduction
+
+định lý
+
+- A theorem is an important true proposition.
+
+### Mathematics - a rule in algebra or other branches of mathematics expressed by symbols or formulae
+
+định lý
