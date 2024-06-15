@@ -11,4 +11,4 @@ plural **numerators**
 
 ### the number above the line in a common fraction showing how many of the parts indicated by the denominator are taken, for example, 2 in 2/3
 
-tử số
+mẫu số
