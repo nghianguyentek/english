@@ -47,7 +47,7 @@
 | com(p)                                                           | kʌm       |
 | com(pe)                                                          | kɒm       |
 | com(pri)                                                         | kəm       |
-| con(si), con(te), con(ti), con(trol), con(vi)                    | kən       |
+| con(jec), con(si), con(te), con(ti), con(trol), con(vi)          | kən       |
 | con(tro)                                                         | kɒn       |
 | cool                                                             | kuːl      |
 | cope                                                             | kəʊp      |
@@ -118,7 +118,7 @@
 | im(p)                                                            | ɪm        |
 | in(cu)                                                           | ɪŋ        |
 | in(co), in(di), in(e), in(te), in(ve)                            | ɪn        |
-| jec(t)                                                           | dʒek      |
+| jec(ture)                                                        | dʒek      |
 | jeo(pa)                                                          | dʒe       |
 | king                                                             | kɪŋ       |
 | know(l)                                                          | nɒ        |
