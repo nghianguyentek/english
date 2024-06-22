@@ -52,6 +52,7 @@
 | cool                                                             | kuːl      |
 | cope                                                             | kəʊp      |
 | cor(po)                                                          | kɔː       |
+| cra(tic)                                                         | kræ       |
 | crave                                                            | kreɪv     |
 | cro(blo)                                                         | krəʊ      |
 | cu(ba)                                                           | kju       |
@@ -59,6 +60,7 @@
 | da(go), do(mai)                                                  | də        |
 | da(t)                                                            | deɪ       |
 | de(ba), de(no), de(vise), di(ca), di(le), di(pi) di(sce), di(vi) | dɪ        |
+| de(mo)                                                           | de        |
 | del                                                              | dl        |
 | dense(ly)                                                        | dens      |
 | dent                                                             | dnt       |
@@ -114,12 +116,15 @@
 | gus                                                              | ɡəs       |
 | gy                                                               | dʒi       |
 | has(ty)                                                          | heɪs      |
+| he(ri)                                                           | he        |
 | hu(mi)                                                           | hjuː      |
 | im(p)                                                            | ɪm        |
 | in(cu)                                                           | ɪŋ        |
 | in(co), in(di), in(e), in(te), in(ve)                            | ɪn        |
 | jec(ture)                                                        | dʒek      |
+| ject                                                             | dʒekt     |
 | jeo(pa)                                                          | dʒe       |
+| jug                                                              | dʒʌɡ      |
 | king                                                             | kɪŋ       |
 | know(l)                                                          | nɒ        |
 | la(bi), li(ty), lla(ry)                                          | lə        |
@@ -145,7 +150,7 @@
 | mi(cro)                                                          | maɪ       |
 | mi(li), mi(na), mi(st)                                           | mɪ        |
 | mix(tu)                                                          | mɪks      |
-| me(ra), mma, mmo(d)                                              | mə        |
+| me(ra), mma, mmo(d), mo(cra)                                     | mə        |
 | mo(d), mo(de)                                                    | mɒ        |
 | mos(ph)                                                          | məs       |
 | mote                                                             | məʊt      |
@@ -169,7 +174,7 @@
 | nu(me), nue                                                      | njuː      |
 | nur(t)                                                           | nɜː       |
 | ny                                                               | ni        |
-| ob(j)                                                            | əb        |
+| ob(ject)                                                         | əb        |
 | o(re)                                                            | ə         |
 | o(pp)                                                            | ɒ         |
 | o(th)                                                            | ʌ         |
@@ -190,6 +195,7 @@
 | pon(ti)                                                          | pɒn       |
 | por(t)                                                           | pɔː       |
 | pose                                                             | pəʊz      |
+| prac(tice)                                                       | præk      |
 | pre(di)                                                          | pre       |
 | prise                                                            | praɪz     |
 | pro(fe), pro(mo), pro(vi)                                        | prə       |
@@ -203,7 +209,7 @@
 | ral                                                              | rəl       |
 | rate                                                             | reɪt      |
 | re(a), ry                                                        | ri        |
-| re(du), re(l), re(s), ri(m), ri(o)                               | rɪ        |
+| re(gate), ri(tage)                                               | rɪ        |
 | re(ci), re(gu), rea(d)                                           | re        |
 | rea(l)                                                           | riːə, rɪə |
 | rea(so), ri(es)                                                  | riː       |
@@ -217,6 +223,7 @@
 | scern                                                            | sɜːn      |
 | se(re)                                                           | se        |
 | se(ri)                                                           | sɪə       |
+| seg(re)                                                          | seg       |
 | self                                                             | self      |
 | shy                                                              | ʃaɪ       |
 | si(d)                                                            | sɪ        |
@@ -266,9 +273,9 @@
 | ti(do), ty                                                       | ti        |
 | tial                                                             | ʃl        |
 | tic                                                              | tɪk       |
+| tice, tis(fa)                                                    | tɪs       |
 | tin(ge)                                                          | tɪn       |
 | tion                                                             | ʃn        |
-| tis(fa)                                                          | tɪs       |
 | tive                                                             | tɪv       |
 | to(pi)                                                           | tɒ        |
 | toad                                                             | təʊd      |
