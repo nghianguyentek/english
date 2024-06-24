@@ -26,6 +26,7 @@
 | bral                                                                        | brəl      |
 | breɪ(kɪ)                                                                    | breɪ      |
 | break                                                                       | breɪk     |
+| brie(fing)                                                                  | briː      |
 | brum                                                                        | brəm      |
 | bump                                                                        | bʌmp      |
 | bush                                                                        | bʊʃ       |
@@ -35,8 +36,9 @@
 | cane                                                                        | keɪn      |
 | cate                                                                        | keɪt      |
 | cate                                                                        | kət       |
+| cau(sa)                                                                     | kɔː       |
 | ccu(m)                                                                      | kjuː      |
-| cco(mm), co(lle)                                                            | kɒ        |
+| cco(mm), co(lle), co(rre)                                                   | kɒ        |
 | ce(dent)                                                                    | si        |
 | ce(re), cer(ba), ci(ty)                                                     | sə        |
 | cen(te)                                                                     | sen       |
@@ -62,6 +64,7 @@
 | cu(r)                                                                       | kjʊə      |
 | da(go), do(mai)                                                             | də        |
 | da(t)                                                                       | deɪ       |
+| de(brie)                                                                    | diː       |
 | de(ba), de(no), de(vise), di(ca), di(le), di(pi) di(sce), di(vi)            | dɪ        |
 | de(mo)                                                                      | de        |
 | del                                                                         | dl        |
@@ -106,6 +109,7 @@
 | fuse                                                                        | fjuːz     |
 | fy                                                                          | faɪ       |
 | gate                                                                        | ɡeɪt      |
+| gee                                                                         | ɡi        |
 | gent                                                                        | dʒənt     |
 | gging                                                                       | ɡɪŋ       |
 | ggle                                                                        | ɡl        |
@@ -123,6 +127,7 @@
 | has(ty)                                                                     | heɪs      |
 | he(ri)                                                                      | he        |
 | hu(mi)                                                                      | hjuː      |
+| hunch                                                                       | hʌntʃ     |
 | im(pi)                                                                      | ɪm        |
 | in(cu)                                                                      | ɪŋ        |
 | in(co), in(di), in(e), in(te), in(ve)                                       | ɪn        |
@@ -172,7 +177,7 @@
 | ness                                                                        | nəs       |
 | nest                                                                        | nɪst      |
 | net(w)                                                                      | net       |
-| ni(fe)                                                                      | nɪ        |
+| ni(fe), ni(ver)                                                             | nɪ        |
 | ni(t)                                                                       | nə        |
 | ning                                                                        | nɪŋ       |
 | nion                                                                        | njən      |
@@ -212,7 +217,7 @@
 | proof                                                                       | pruːf     |
 | qua(li)                                                                     | kwɒ       |
 | qui(tou)                                                                    | kwɪ       |
-| ra(li)                                                                      | rə        |
+| ra(li, rre(la)                                                              | rə        |
 | ra(tor)                                                                     | reɪ       |
 | ral                                                                         | rəl       |
 | rate                                                                        | reɪt      |
@@ -224,10 +229,12 @@
 | rem                                                                         | rəm       |
 | ren(di)                                                                     | rən       |
 | ring(ly)                                                                    | rɪŋ       |
+| ro(dent)                                                                    | rəʊ       |
 | ro(lla)                                                                     | rɒ        |
 | rrass                                                                       | rəs       |
 | rror                                                                        | rə(r)     |
 | sa(ti)                                                                      | sæ        |
+| sa(tion)                                                                    | zeɪ       |
 | scern                                                                       | sɜːn      |
 | se(re)                                                                      | se        |
 | se(ri)                                                                      | sɪə       |
@@ -238,14 +245,15 @@
 | si(fy)                                                                      | sɪ        |
 | si(tion)                                                                    | zɪ        |
 | si(lo)                                                                      | saɪ       |
+| si(ty), so(ry), ssi(bi)                                                     | sə        |
 | sial                                                                        | ʃl        |
 | sight                                                                       | saɪt      |
 | sion                                                                        | ʃn        |
 | sis(te)                                                                     | sɪs       |
+| ske(gee)                                                                    | skiː      |
 | sm                                                                          | zəm       |
 | so(ni)                                                                      | zə        |
 | so(li)                                                                      | sɒ        |
-| so(ry), ssi(bi)                                                             | sə        |
 | soon                                                                        | suːn      |
 | sor                                                                         | zə(r)     |
 | spa(ring)                                                                   | speə      |
@@ -299,8 +307,9 @@
 | tro(ve)                                                                     | trə       |
 | tu(n)                                                                       | tjuː      |
 | tu(ent)                                                                     | tʃu       |
+| tu(ske)                                                                     | tʌ        |
 | ture                                                                        | tʃə(r)    |
-| u(bi)                                                                       | juː       |
+| u(bi), u(ni)                                                                | juː       |
 | un(c)                                                                       | ʌn        |
 | va(li), va(po)                                                              | væ        |
 | vai(l)                                                                      | veɪ       |
@@ -310,7 +319,7 @@
 | vel                                                                         | vl        |
 | vent                                                                        | vent      |
 | ver                                                                         | və(r)     |
-| ver(sia)                                                                    | vɜː       |
+| ver(si), ver(sia)                                                           | vɜː       |
 | ves(ti)                                                                     | ves       |
 | vi(du), vi(go)                                                              | vɪ        |
 | vi(sor)                                                                     | vaɪ       |

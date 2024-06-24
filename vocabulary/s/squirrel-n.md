@@ -5,3 +5,5 @@
 
 ## a small animal with a long, thick tail and red, gray, or black fur. Squirrels eat nuts and lives in trees (con sóc)
 
+![img.png](squirrel-01.png)
+
