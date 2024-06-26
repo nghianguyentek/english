@@ -1,0 +1,1 @@
+- [Suzuki, W. (2017). *The brain-changing benefits of exercise*. TED.](https://www.ted.com/talks/wendy_suzuki_the_brain_changing_benefits_of_exercise)
