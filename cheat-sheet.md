@@ -112,7 +112,7 @@
 | ent                                                                                   | ənt       |
 | es                                                                                    | z         |
 | ex(pe)                                                                                | ɪk        |
-| fa(ci), fa(m)                                                                         | fə        |
+| fa(ci), fa(m), fo(ren)                                                                | fə        |
 | fa(v)                                                                                 | feɪ       |
 | fac(tio)                                                                              | fæk       |
 | fail                                                                                  | feɪl      |
@@ -258,6 +258,7 @@
 | rea(so), ri(es)                                                                       | riː       |
 | rem                                                                                   | rəm       |
 | ren(di)                                                                               | rən       |
+| ren(sic)                                                                              | ren       |
 | ring(ly)                                                                              | rɪŋ       |
 | ro(dent)                                                                              | rəʊ       |
 | ro(lla)                                                                               | rɒ        |
@@ -279,6 +280,7 @@
 | si(lo)                                                                                | saɪ       |
 | si(ty), so(ry), ssi(bi)                                                               | sə        |
 | sial                                                                                  | ʃl        |
+| sic                                                                                   | zɪk       |
 | side                                                                                  | saɪd      |
 | sight                                                                                 | saɪt      |
 | sion                                                                                  | ʃn        |
