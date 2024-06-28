@@ -8,6 +8,8 @@ plural **glands**
 
 ### an organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings
 
+tuyến
+
 - The glands of the endocrine system [secrete](../s/secrete-v.md#of-a-cell-gland-or-organ-produce-and-discharge-a-substance) hormones to regulate normal body functions.
 
 ### a structure resembling this, especially a lymph node
