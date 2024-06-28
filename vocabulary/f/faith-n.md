@@ -4,8 +4,20 @@
 
 fai-th /feɪ-θ/
 
-## trust in somebody's ability or knowledge; trust that somebody/something will do what has been promised
+## 1.
 
-uncountable
+### complete trust or confidence in someone or something
 
-niềm tin; niềm tin ở; niềm tin vào; niềm tin rằng; tin ở; tin vào; tin rằng
+trust, belief, confidence, conviction, credence, reliance, dependence, optimism, hopefulness, hope, expectation
+
+Opposite mistrust
+
+## 2.
+
+### strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof
+
+religion, church, sect, denomination, persuasion, religious persuasion, religious belief, belief, code of belief, ideology, creed, teaching, dogma, doctrine
+
+### a system of religious belief
+
+### a strongly held belief or theory
