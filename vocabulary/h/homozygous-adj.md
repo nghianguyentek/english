@@ -9,4 +9,7 @@ ho-mo-zy-gous /ˌhɒ-mə-ˈzaɪ-ɡəs/
 
 ### Genetics - having two identical alleles of a particular gene or genes
 
+đồng hợp tử
+
 - In order to exhibit a recessive phenotype, an individual must be homozygous for the recessive allele.
+- When someone has two copies of the same allele, they are said to be homozygous for that allele.

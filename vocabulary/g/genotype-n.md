@@ -14,3 +14,5 @@ plural **genotypes**
 kiểu gen
 
 - Describe the differences between genotype and phenotype
+- A person's genotype is the genetic makeup of that individual.
+- Genotype refers to the genetic makeup of an individual based on the genetic material (DNA) inherited from one's genetic contributors.

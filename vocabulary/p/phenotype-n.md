@@ -11,3 +11,6 @@ plural **phenotypes**
 ### Biology - the set of observable characteristics of an individual resulting from the interaction of its genotype with the environment
 
 kiểu hình
+
+- Phenotype, on the other hand, refers to the individual's inherited physical characteristics, which are a combination of genetic and environmental influences.
+- Phenotype describes an individual's observable characteristics, such as hair color, skin color, height, and build.

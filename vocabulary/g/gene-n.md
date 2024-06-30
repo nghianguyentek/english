@@ -13,3 +13,5 @@ plural **genes**
 - Discuss how gene-environment interactions are critical for expression of physical and psychological characteristics.
 - Genes are sequences of DNA that code for a particular trait.
 - Different versions of a gene are called alleles - sometimes alleles are can be classified as dominant and recessive.
+- Most traits are controlled by multiple genes, but some traits are controlled by one gene.
+- Genes does not exist in a vacuum.

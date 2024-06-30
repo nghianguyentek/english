@@ -6,3 +6,4 @@
 
 - How are genetic diseases passed through family lines?
 - Are the genetic components to psychological disorders, such as depression or schizophrenia?
+- The concept of a genetic parent is distinct from social and legal concepts of parenthood, and may differ from those whom people consider their parents.
