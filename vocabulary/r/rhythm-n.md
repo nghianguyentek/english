@@ -10,13 +10,19 @@ plural **rhythms**
 
 ### a strong, regular, repeated pattern of movement or sound
 
+nhịp điệu
+
 pattern, flow, tempo, regular features, recurrent nature
 
 ### the systematic arrangement of musical sounds, principally according to duration and periodic stress
 
+nhịp điệu
+
 beat, cadence, tempo, time, pace, pulse, throb, lilt, swing, periodicity
 
 ### a particular type of pattern formed by rhythm
+
+- Biological rhythms are internal rhythms of biological activity.
 
 ### a person's natural feeling for rhythm
 

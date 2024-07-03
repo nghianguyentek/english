@@ -13,6 +13,8 @@ acute, very bad, serious, grave, critical, dire, drastic, grievous, extreme, dre
 
 Opposite minor, negligible, gentle, slight
 
+- Moreover, these impairments become more severe as the amount of sleep deprivation increases.
+
 ### strict or harsh
 
 harsh, hard, bitter, bitterly cold, cold, bleak, freezing, icy, arctic, polar, Siberian, extreme, nasty, scathing, sharp, strong, fierce, ferocious, stringent, savage, blistering, searing, stinging, scorching, devastating, mordant, trenchant, caustic, biting, cutting, withering, rigorous, unsparing, smart, sound, extortionate, excessive, unreasonable, inordinate, outrageous, sky-high, stiff, punitive, punishing, penal, swingeing, strict, stern, inflexible, uncompromising, inexorable, implacable, rigid, unbending, relentless, unrelenting, unyielding, merciless, pitiless, ruthless, draconian, oppressive, repressive, rough, tyrannical, iron-fisted, iron-handed, brutal, inhuman, cruel, solid

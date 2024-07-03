@@ -12,6 +12,8 @@ plural **perceptions**
 
 ### the state of being or process of becoming aware of something through the senses
 
+nhận thức
+
 discernment, appreciation, recognition, realization, cognizance, awareness, consciousness, knowledge, acknowledgement, grasp, understanding, comprehension, interpretation, apprehension, impression, sense, sensation, feeling, observation, picture, notion, thought, belief, conception, idea, judgement, estimation
 
 ### a way of regarding, understanding, or interpreting something; a mental impression
