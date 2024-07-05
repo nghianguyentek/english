@@ -4,20 +4,10 @@
 
 in-flu-ence /ˈɪn-flu-əns/
 
-## to have an effect on the way that somebody behaves or thinks, especially by giving them an example to follow
+## 1.
+
+### have an influence on
 
 ảnh hưởng; chi phối; tác động 
 
-- influence somebody/something
-- heavily/strongly influenced
-- influence how/whether
-- influence somebody to do something
-- influence somebody in something
-
-## to have an effect on a particular situation and the way that it develops
-
-ảnh hưởng
-
-- influence something
-  - influence the outcome of
-- influence how/whether, etc.
+affect, have an effect on, exert influence on, determine, guide, control, form, shape, govern, decide, regulate, change, alter, modify, transform, impact on, sway, bias, prejudice, colour, predispose, suborn, bring pressure to bear on, pressurise, coerce, lean on, pull strings with, twist someone's arm, nobble, persuade, convince, talk around, talk into, win over, bring around, coax, induce, inveigle, impel, incite, entice, tempt, lure, cajole, manipulate, prompt, dragoon, intimidate, browbeat, brainwash
