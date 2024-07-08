@@ -5,16 +5,16 @@
 
 promp-t-li /ˈprɒmp-t-li/
 
-## without delay
+## 1.
 
-không trì hoãn
+### with little or no delay; immediately
 
-## exactly at the correct time or at the time mentioned
+punctually, on time, on the dot, on the nail, bang on, spot on, on the button, on the knocker, quickly, swiftly, rapidly, speedily, fast, as soon as possible, ASAP, expeditiously, at once, immediately, straight away, right away, now, without delay, without hesitation, forthwith, directly, instantly, instantaneously, by return, unhesitatingly, momentarily, pronto, p.d.q. (pretty damn quick), in double quick time
 
-Synonym [punctually]()
+- Dina finishes her homework promptly.
 
-đúng giờ; đúng
+### used to express surprise, and slight disapproval, whens someone does something shortly after something else
 
-## immediately
+## 2.
 
-ngay lập tức
+### at exactly a specified time; punctually
