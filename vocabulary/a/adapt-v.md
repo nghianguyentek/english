@@ -2,22 +2,26 @@
 
 /əˈdæpt/ [🔊](https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ada/adapt/adapt__gb_2.mp3) [🔊](https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/ada/adapt/adapt__us_1.mp3)
 
-## to change your behaviour in order to deal more successfully with a new situation
+a-dapt /ə-ˈdæpt/
 
-Topic [Success](../topics/success.md#success)
+## 1.
 
-Synonym [adjust]()
+### make (something) suitable for a new use or purpose; modify
 
-Thích nghi; Thích ứng
+sửa đổi, điều chỉnh
 
-## to change something in order to make it suitable for a new use or situation
+modify, alter, make alterations to, change, adjust, make adjustments to, convert, transform, redesign, restyle, refashion, remodel, reshape, revamp, rework, redo, reconstruct, reorganise, customise, tailor, improve, make improvement to, amend, refine, tweak
 
-Synonym [modify]()
-
-Sửa đổi; Điều chỉnh
+Opposite preserve
 
 - Let's adapt the product.
 
-## to change a book or play so that it can be made into a play, film, television drama, etc.
+### become adjusted to new conditions
 
-Topic [Literature and writing](../topics/literature-and-writing.md#literature--writing), [Film and theatre](../topics/film-and-theatre.md#film--theatre), [TV, radio, and news](../topics/tv-radio-and-news.md#tv-radio--news)
+thích ứng, thích nghi
+
+adjust, acclimatise, accommodate, attune, habituate, acculturate, conform, familiarise oneself with, habituate oneself with, become habituated to, get used to, orient oneself in, condition oneself to, reconcile oneself to, resign oneself to, become resigned to, come to terms with, find one's way around, become naturalised, become seasoned, get one's bearings, find one's feet, blend in, fit in, acclimate
+
+### alter (a text) to make it suitable for filming, broadcasting, or the stage
+
+biên tập, chuyển thể
