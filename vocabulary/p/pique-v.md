@@ -6,6 +6,8 @@
 
 ### stimulate (interest or curiosity)
 
+kích thích, khơi gợi
+
 stimulate, arouse, rouse, provoke, whet, awaken, excite, kindle, stir, spur, intrigue, galvanise
 
 - This particular possibility has piqued the interest of many neuroscientists who seek to understand how the brain uses [sensory](../s/sensory-adj.md#relating-to-sensation-or-the-physical-senses-transmitted-or-perceived-by-the-senses) information.
