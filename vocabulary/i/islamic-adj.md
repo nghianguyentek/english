@@ -1,0 +1,4 @@
+# Islamic (adj)
+
+- /ɪzˈlæmɪk/
+- /ɪzˈlɑːmɪk/
