@@ -11,6 +11,8 @@ plural **distortions**
 
 ### the action of distorting or the state of being distorted
 
+sự bóp méo, bị bóp méo
+
 warp, twist, contortion, bend, buckle, deformation, deformity, curve, curvature, malformation, disfigurement, crookedness, gnarl, knot
 
 ### a distorted form or part
