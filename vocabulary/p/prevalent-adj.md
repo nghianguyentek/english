@@ -8,4 +8,8 @@ pre-va-lent /ˈpre-və-lənt/
 
 ### widespread in a particular area or at a particular time
 
+widespread, prevailing, frequent, usual, common, general, universal, pervasive, extensive, ubiquitous, ordinary, endemic, rampant, rife, recognised, established, accepted, current, popular, fashionable, in fashion, in style, in vogue
+
+Opposite uncommon, rare
+
 - One additional feature of modern science not included in this list but prevalent in scientist's thinking and theorising is falsifiability, a feature that has so permeated scientific practice that it warrants additional clarification.
