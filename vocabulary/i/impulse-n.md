@@ -10,9 +10,13 @@ plural **impulses**
 
 ### a sudden strong and unreflective urge or desire to act
 
+hứng
+
 urge, instinct, drive, compulsion, need, itch, whim, caprice, desire, fancy, notion
 
 ### tendency to act impulsively
+
+tùy hứng
 
 spontaneity, impetuosity, wildness, recklessness, irresponsibility, rashness
 
@@ -21,6 +25,8 @@ Opposite premeditation, carefulness
 ## 2.
 
 ### a driving or motivating force; an impetus
+
+cảm hứng
 
 inspiration, stimulation, stimulus, incitement, motivation, encouragement, fillip, spur, prod, catalyst
 
