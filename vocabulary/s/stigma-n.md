@@ -8,7 +8,9 @@ plural **stigmas** or **stigmata** /stɪɡˈmɑːtə/ [🔊](https://www.oxfordl
 
 ## 1.
 
-### a mark or disgrace associated with a particular circumstance, quality, or person
+### a mark of disgrace associated with a particular circumstance, quality, or person
+
+xấu hổ
 
 shame, disgrace, dishonour, stain, taint, blot, blot on one's escutcheon, blemish, brand, mark, slur, smirch
 
