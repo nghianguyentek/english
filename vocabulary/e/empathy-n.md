@@ -8,6 +8,8 @@ em-pa-thy /ˈem-pə-θi/
 
 ### the ability to understand and share the feelings of another
 
+thấu cảm
+
 affinity with, rapport with, sympathy with, understanding of, sensitivity toward, sensibility to, identification with, awareness of, fellowship with, fellow feeling for, like-mindedness, togetherness, closeness to, chemistry
 
 Opposite distance

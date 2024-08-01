@@ -5,10 +5,10 @@
 
 re-ci-pro-ci-ty /ˌre-sɪ-ˈprɒ-sə-ti/
 
-uncountable, formal
+## 1.
 
-## a situation in which two people, countries, etc. provide the same help or advantages to each other
+### the practice of exchanging things with others for mutual benefit, especially privileges granted by one country or organisation to another
 
-giúp đỡ lẫn nhau; dành đặc quyền cho nhau; tương hỗ, tương hoán; có qua có lại; tính thuận nghịch, tính đảo nhau
+trao đổi lợi ích, có qua có lại
 
 - Conversations on social networks tend to be [topical](../t/topical-adj.md#connected-with-something-that-is-happening-or-of-interest-at-the-present-time) with high reciprocity between [densely](../d/densely-adv.md#in-a-way-that-contains-a-lot-of-people-things-plants-etc-with-little-space-between-them) connected users.
