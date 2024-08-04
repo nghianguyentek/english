@@ -1,0 +1,4 @@
+# ordinary (adj)
+
+- /ˈɔːdnri/
+- /ˈɔːrdneri/

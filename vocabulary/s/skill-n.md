@@ -4,19 +4,20 @@
 
 s-kil /s-kɪl/
 
-## the ability to do something well
+## 1.
 
-Topic [Personal qualities](../topics/personal-qualities.md#personal-qualities)
+### the ability to do something well
 
-uncountable
+kỹ xảo
 
-kỹ năng
+expertise, skillfulness, expertness, adeptness, adroitness, deftness, dexterity, ability, prowess, mastery, competence, competency, capability, efficiency, aptitude, artistry, art, finesse, flair, virtousity, experience, professionalism, talent, cleverness, smartness, ingenuity, versatility, knack, readiness, handiness, know-how
 
-## a particular ability or type of ability
+Opposite incompetence
 
-Topic [Personal qualities](../topics/personal-qualities.md#personal-qualities)
+### a particular ability
 
-kỹ năng, kỹ xảo; loại kỹ năng, loại kỹ xảo
+kĩ năng
 
-Related [life skill](), [people skills]()
+plural **skills**
 
+accomplishment, strength, gift, forte
