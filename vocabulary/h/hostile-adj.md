@@ -16,6 +16,9 @@ antagonistic, aggressive, confrontational, belligerent, bellicose, pugnacious, m
 
 Opposite friendly, mild
 
+- Hostile environment sexual harassment is another type of workplace harassment.
+- In this situation, an employee experiences conditions in the workplace that are considered hostile or intimidating.
+
 ### of or belonging to a military enemy
 
 ### opposed
