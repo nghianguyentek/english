@@ -9,6 +9,10 @@ ex-pe-ri-ence /ɪk-ˈspɪə-ri-əns/
 
 ### encounter or undergo (an event or occurrence)
 
+trải qua
+
 undergo, encounter, meet, have experience of, come into contact with, run into, come across, come up against, face, be faced with, confront, be forced to contend with, feel, know, become familiar with, live through, go through, sustain, suffer, endure, tolerate, participate in, taste, try
 
 ### feel (an emotion)
+
+cảm thấy
