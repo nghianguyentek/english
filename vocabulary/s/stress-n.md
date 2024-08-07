@@ -6,7 +6,7 @@
 
 Topic [Feelings](../topics/feelings.md#feelings)
 
-Căng thẳng
+căng thẳng
 
 - emotional/mental stress
 - to suffer from stress
