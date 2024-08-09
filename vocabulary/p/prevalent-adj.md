@@ -8,6 +8,8 @@ pre-va-lent /ˈpre-və-lənt/
 
 ### widespread in a particular area or at a particular time
 
+phổ biến
+
 widespread, prevailing, frequent, usual, common, general, universal, pervasive, extensive, ubiquitous, ordinary, endemic, rampant, rife, recognised, established, accepted, current, popular, fashionable, in fashion, in style, in vogue
 
 Opposite uncommon, rare
