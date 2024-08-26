@@ -1,0 +1,136 @@
+{
+  "p": [
+    {
+      "t": "ˈek-spɜː-t",
+      "s": [
+        "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exp/exper/expert__gb_2.mp3"
+      ]
+    },
+    {
+      "t": "ˈek-spɜːr-t",
+      "s": [
+        "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exp/exper/expert__us_1.mp3"
+      ]
+    }
+  ],
+  "pl": [
+    "experts"
+  ],
+  "m": [
+    {
+      "h": "General",
+      "t": "a person who has a comprehensive and authoritative knowledge of a skill in a particular area",
+      "v": [
+        {
+          "t": "chuyên gia"
+        }
+      ],
+      "s": [
+        {
+          "t": "specialist"
+        },
+        {
+          "t": "authority"
+        },
+        {
+          "t": "pundit"
+        },
+        {
+          "t": "oracle"
+        },
+        {
+          "t": "resource person"
+        },
+        {
+          "t": "adept"
+        },
+        {
+          "t": "maestro"
+        },
+        {
+          "t": "virtuoso"
+        },
+        {
+          "t": "master"
+        },
+        {
+          "t": "past master"
+        },
+        {
+          "t": "professional"
+        },
+        {
+          "t": "genius"
+        },
+        {
+          "t": "wizard"
+        },
+        {
+          "t": "connoisseur"
+        },
+        {
+          "t": "aficionado"
+        },
+        {
+          "t": "one of the cognoscenti"
+        },
+        {
+          "t": "cognoscente"
+        },
+        {
+          "t": "doyen"
+        },
+        {
+          "t": "savant"
+        },
+        {
+          "t": "ace"
+        },
+        {
+          "t": "buff"
+        },
+        {
+          "t": "ninja"
+        },
+        {
+          "t": "pro"
+        },
+        {
+          "t": "whiz"
+        },
+        {
+          "t": "hotshot"
+        },
+        {
+          "t": "old hand"
+        },
+        {
+          "t": "alpha geek"
+        },
+        {
+          "t": "dab hand"
+        },
+        {
+          "t": "maven"
+        },
+        {
+          "t": "crackerjack"
+        },
+        {
+          "t": "proficient"
+        }
+      ],
+      "o": [
+        {
+          "t": "inexpert"
+        },
+        {
+          "t": "amateur"
+        }
+      ],
+      "e": [
+        "The discussion may or may not lead to a diagnosis, but as with physical illnesses, one has a better chance at success if they raise the issues with doctors or other experts."
+      ]
+    }
+  ]
+}
